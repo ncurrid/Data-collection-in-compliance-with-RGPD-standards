@@ -1,4 +1,4 @@
-# Collect data in compliance with RGPD standards
+# Data collection in compliance with RGPD standards
 # I. Context
 As part of a consulting mission, I worked as a Business Intelligence (BI) Analyst for Dev'Immediat, an automobile insurance brokerage firm.
 
