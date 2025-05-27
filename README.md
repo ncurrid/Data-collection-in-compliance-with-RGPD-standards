@@ -1,1 +1,1 @@
-# Collect-data-in-compliance-with-RGPD-standards
+# Collect data in compliance with RGPD standards
