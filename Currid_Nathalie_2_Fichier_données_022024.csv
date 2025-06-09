@@ -1,0 +1,1159 @@
+﻿ID;sexe;age;revenus_K€;enfants;enfant_conduite_accompagnee;type_vehicule;age_vehicule;est_rouge;usage_vehicule;type_conduite;points_perdus;date_demande;formule;tarif_devis_€
+1;F;[15-25];[125-150];oui;non;Sports Car;7;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+2;F;> 75;[50-75];oui;oui;Minivan;1;non;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+3;F;[45-55];< 25;oui;non;Pickup;4;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+4;F;< 15;< 25;non;non;z_SUV;5;non;Private;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+5;M;[65-75];< 25;non;non;Panel Truck;12;non;Commercial;Highly Urban/ Urban;2;mars;dev_vip;> 600
+6;F;[25-35];[75-100];oui;non;z_SUV;15;non;Private;z_Highly Rural/ Rural;2;mars;dev_premium;[450-600]
+7;F;> 75;[125-150];oui;oui;Minivan;9;non;Commercial;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+8;M;[65-75];[50-75];non;non;z_SUV;10;non;Private;Highly Urban/ Urban;1;mars;dev_premium;[300-450]
+9;M;[65-75];[100-125];non;non;Minivan;14;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+10;F;[45-55];< 25;non;non;Panel Truck;10;oui;Commercial;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+11;F;[55-65];< 25;oui;oui;Minivan;10;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+12;M;< 15;< 25;oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+13;F;[65-75];[50-75];non;non;z_SUV;18;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+14;M;< 15;< 25;non;non;Van;6;non;Commercial;z_Highly Rural/ Rural;5;mai;dev_integral;[300-450]
+15;M;> 75;[25-50];oui;non;Minivan;1;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+16;M;> 75;[25-50];non;non;Minivan;13;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+17;F;[45-55];[100-125];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+18;F;> 75;[50-75];non;non;Van;8;oui;Commercial;Highly Urban/ Urban;1;mars;dev_express;< 300
+19;F;[65-75];[75-100];non;non;Minivan;11;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+20;F;> 75;[25-50];non;non;z_SUV;10;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+21;M;[35-45];[50-75];oui;non;Minivan;16;non;Private;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+22;M;> 75;[25-50];oui;oui;Minivan;;non;Private;Highly Urban/ Urban;1;mars;dev_premium;[300-450]
+23;F;[15-25];< 25;non;non;Van;7;oui;Commercial;Highly Urban/ Urban;0;mai;dev_premium;[300-450]
+24;F;> 75;[25-50];oui;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;5;février;dev_premium;[450-600]
+25;M;[15-25];< 25;non;non;Pickup;1;non;Commercial;Highly Urban/ Urban;1;avril;dev_express;< 300
+26;M;[65-75];< 25;non;non;Minivan;;oui;Private;z_Highly Rural/ Rural;1;avril;dev_express;< 300
+27;F;[25-35];[25-50];non;non;Sports Car;1;non;Private;z_Highly Rural/ Rural;0;mars;dev_integral;< 300
+28;F;[45-55];[75-100];non;non;z_SUV;;non;Private;Highly Urban/ Urban;5;avril;dev_integral;< 300
+29;F;[55-65];[50-75];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;mars;dev_vip;> 600
+30;F;[15-25];[100-125];non;non;z_SUV;17;non;Private;Highly Urban/ Urban;0;février;dev_premium;[300-450]
+31;F;[45-55];[25-50];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+32;M;[35-45];[25-50];oui;non;Minivan;5;oui;Commercial;z_Highly Rural/ Rural;6;avril;dev_integral;[300-450]
+33;F;[65-75];[100-125];non;non;z_SUV;9;non;Private;Highly Urban/ Urban;3;mars;dev_express;< 300
+34;M;< 15;[25-50];non;non;z_SUV;6;non;Private;z_Highly Rural/ Rural;2;février;dev_premium;[300-450]
+35;M;[45-55];[50-75];oui;oui;Sports Car;12;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+36;F;[65-75];< 25;non;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+37;F;[55-65];[25-50];non;non;Sports Car;15;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+38;F;< 15;[75-100];oui;non;z_SUV;14;non;Private;Highly Urban/ Urban;2;février;dev_integral;< 300
+39;F;[55-65];> 150;non;non;Minivan;15;non;Private;Highly Urban/ Urban;0;mai;dev_integral;< 300
+40;M;[35-45];[50-75];non;non;z_SUV;11;non;Private;z_Highly Rural/ Rural;1;mars;dev_premium;[300-450]
+41;F;[15-25];< 25;oui;oui;Sports Car;10;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+42;F;> 75;< 25;oui;non;z_SUV;8;non;Private;Highly Urban/ Urban;5;avril;dev_express;< 300
+43;M;[55-65];< 25;oui;non;Pickup;10;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+44;F;[55-65];[50-75];oui;oui;Pickup;;oui;Private;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+45;M;[45-55];[75-100];non;non;z_SUV;13;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+46;F;[65-75];[75-100];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;4;février;dev_express;< 300
+47;M;> 75;< 25;oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+48;F;[35-45];[125-150];non;non;Panel Truck;13;oui;Commercial;Highly Urban/ Urban;1;février;dev_integral;[300-450]
+49;M;> 75;[75-100];non;non;Van;7;oui;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+50;F;[35-45];[50-75];oui;oui;Van;1;oui;Private;z_Highly Rural/ Rural;1;avril;dev_integral;< 300
+51;F;[25-35];[25-50];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;7;mars;dev_integral;[300-450]
+52;F;[45-55];[25-50];oui;non;Minivan;5;non;Private;Highly Urban/ Urban;1;mars;dev_express;< 300
+53;M;[15-25];[100-125];non;non;Minivan;7;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+54;F;[45-55];[50-75];non;non;Sports Car;19;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+55;F;< 15;[75-100];non;non;Minivan;8;non;Commercial;z_Highly Rural/ Rural;5;avril;dev_express;< 300
+56;M;[45-55];[75-100];non;non;Van;13;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+57;F;[55-65];[25-50];oui;non;Van;9;oui;Commercial;Highly Urban/ Urban;4;mai;dev_integral;< 300
+58;M;[25-35];[50-75];non;non;z_SUV;12;non;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+59;F;[65-75];[25-50];oui;oui;Van;1;oui;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+60;F;[25-35];[25-50];oui;oui;Sports Car;7;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+61;F;[65-75];[75-100];non;non;Minivan;16;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+62;F;[55-65];[25-50];non;non;Pickup;8;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+63;F;[65-75];[50-75];oui;non;Van;5;non;Commercial;Highly Urban/ Urban;0;mai;dev_integral;< 300
+64;F;> 75;[25-50];oui;non;Sports Car;1;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+65;F;< 15;< 25;non;non;z_SUV;6;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+66;M;[45-55];[50-75];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;5;mai;dev_express;< 300
+67;M;[65-75];[75-100];non;non;Pickup;7;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+68;M;[45-55];< 25;non;non;Minivan;5;non;Private;z_Highly Rural/ Rural;3;mai;dev_express;< 300
+69;M;[65-75];< 25;oui;non;z_SUV;13;oui;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+70;F;[25-35];[75-100];non;non;Pickup;3;non;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+71;F;< 15;[75-100];non;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+72;M;[35-45];> 150;non;non;z_SUV;12;non;Private;Highly Urban/ Urban;2;janvier;dev_express;< 300
+73;M;< 15;[75-100];non;non;Minivan;9;oui;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+74;F;> 75;[75-100];oui;non;Minivan;9;non;Private;z_Highly Rural/ Rural;2;février;dev_premium;[450-600]
+75;M;> 75;[25-50];non;non;Pickup;8;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+76;F;[25-35];[100-125];non;non;z_SUV;18;non;Private;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+77;F;[65-75];[50-75];non;non;Minivan;1;non;Commercial;Highly Urban/ Urban;5;mai;dev_express;< 300
+78;M;[45-55];[25-50];non;non;Panel Truck;11;non;Commercial;Highly Urban/ Urban;4;janvier;dev_premium;[300-450]
+79;F;[45-55];[25-50];non;non;Minivan;6;non;Private;Highly Urban/ Urban;4;février;dev_express;< 300
+80;M;[55-65];[100-125];non;non;Minivan;1;oui;Private;Highly Urban/ Urban;1;avril;dev_premium;[300-450]
+81;M;> 75;< 25;non;non;Sports Car;3;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+82;M;[55-65];[100-125];non;non;Van;8;oui;Commercial;z_Highly Rural/ Rural;0;février;dev_express;< 300
+83;F;[65-75];[25-50];oui;non;z_SUV;4;non;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+84;M;[55-65];< 25;non;non;Sports Car;;non;Private;z_Highly Rural/ Rural;1;mai;dev_express;< 300
+85;M;[55-65];[50-75];non;non;Pickup;8;oui;Commercial;Highly Urban/ Urban;2;janvier;dev_express;< 300
+86;M;[35-45];[25-50];non;non;Minivan;9;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+87;M;[45-55];< 25;non;non;Minivan;17;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+88;F;[15-25];< 25;oui;oui;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+89;M;[45-55];[25-50];non;non;Minivan;13;non;Private;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+90;M;[55-65];[25-50];oui;non;Sports Car;2;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;< 300
+91;M;> 75;[50-75];non;non;Minivan;1;non;Commercial;Highly Urban/ Urban;3;avril;dev_express;< 300
+92;F;< 15;< 25;oui;non;Minivan;1;non;Private;Highly Urban/ Urban;1;mars;dev_premium;[300-450]
+93;F;< 15;[75-100];non;non;Sports Car;1;non;Private;Highly Urban/ Urban;6;février;dev_premium;[450-600]
+94;M;[55-65];[50-75];non;non;Van;1;oui;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+95;F;[65-75];[50-75];non;non;Pickup;11;non;Private;Highly Urban/ Urban;4;avril;dev_integral;< 300
+96;F;[45-55];[25-50];non;non;Pickup;5;oui;Commercial;z_Highly Rural/ Rural;1;janvier;dev_integral;[300-450]
+97;M;[55-65];[25-50];non;non;Minivan;1;non;Private;Highly Urban/ Urban;7;mars;dev_express;< 300
+98;F;[35-45];[50-75];oui;oui;Minivan;6;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+99;M;[35-45];[50-75];oui;non;Van;8;oui;Private;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+100;M;[15-25];[50-75];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+101;M;[65-75];< 25;oui;non;Pickup;12;non;Commercial;Highly Urban/ Urban;2;février;dev_integral;[300-450]
+102;F;[15-25];[50-75];oui;non;Minivan;1;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+103;M;[45-55];[100-125];non;non;Minivan;11;non;Private;Highly Urban/ Urban;6;janvier;dev_integral;[300-450]
+104;M;< 15;> 150;non;non;Panel Truck;17;oui;Commercial;Highly Urban/ Urban;4;janvier;dev_express;< 300
+105;M;[55-65];[50-75];non;non;Minivan;12;oui;Private;Highly Urban/ Urban;1;mai;dev_premium;[300-450]
+106;M;[25-35];< 25;oui;non;Panel Truck;14;oui;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+107;F;[65-75];< 25;oui;oui;Minivan;5;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+108;M;[35-45];[50-75];oui;non;Minivan;12;oui;Commercial;z_Highly Rural/ Rural;1;mars;dev_integral;[300-450]
+109;F;[55-65];[125-150];oui;non;Minivan;11;oui;Private;Highly Urban/ Urban;5;janvier;dev_express;< 300
+110;M;> 75;< 25;non;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+111;M;[45-55];[50-75];non;non;z_SUV;9;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+112;M;[55-65];[100-125];oui;oui;Minivan;12;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+113;M;[65-75];< 25;oui;non;z_SUV;8;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+114;F;[65-75];[25-50];oui;non;Minivan;6;non;Commercial;Highly Urban/ Urban;2;mars;dev_express;< 300
+115;F;[55-65];[75-100];non;non;z_SUV;14;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+116;F;[45-55];< 25;oui;oui;Minivan;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_premium;[450-600]
+117;F;> 75;[25-50];oui;oui;Sports Car;11;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+118;F;[55-65];< 25;oui;oui;Pickup;7;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+119;M;< 15;[50-75];oui;oui;Sports Car;1;non;Commercial;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+120;M;< 15;[75-100];non;non;Minivan;15;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+121;M;[65-75];< 25;non;non;z_SUV;13;non;Private;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+122;M;[55-65];[75-100];oui;non;Minivan;11;oui;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+123;M;[65-75];[100-125];non;non;z_SUV;12;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+124;F;[45-55];[50-75];non;non;Pickup;11;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+125;F;[25-35];[25-50];oui;non;Van;9;non;Private;Highly Urban/ Urban;4;janvier;dev_integral;[300-450]
+126;M;[25-35];[75-100];non;non;Minivan;8;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+127;M;[65-75];[100-125];non;non;Minivan;1;non;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+128;M;[15-25];< 25;non;non;Minivan;1;oui;Commercial;z_Highly Rural/ Rural;7;mars;dev_express;< 300
+129;M;[15-25];[50-75];non;non;Sports Car;;non;Commercial;Highly Urban/ Urban;1;avril;dev_premium;[450-600]
+130;M;[55-65];[125-150];non;non;Minivan;13;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+131;F;[65-75];< 25;oui;non;Sports Car;13;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+132;F;[65-75];[25-50];oui;non;Minivan;9;non;Private;Highly Urban/ Urban;8;mai;dev_vip;> 600
+133;M;< 15;< 25;oui;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+134;M;[55-65];[25-50];non;non;Minivan;5;oui;Private;Highly Urban/ Urban;3;février;dev_express;< 300
+135;F;< 15;[25-50];oui;oui;z_SUV;9;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+136;F;> 75;[75-100];oui;non;Minivan;16;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+137;M;< 15;[25-50];non;non;Van;15;oui;Commercial;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+138;M;[35-45];[125-150];oui;oui;Van;9;non;Commercial;Highly Urban/ Urban;4;mai;dev_express;< 300
+139;M;[45-55];[25-50];oui;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;4;mai;dev_express;< 300
+140;F;[45-55];< 25;oui;non;Sports Car;7;non;Private;Highly Urban/ Urban;6;avril;dev_premium;[450-600]
+141;M;[45-55];[75-100];non;non;Sports Car;9;non;Commercial;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+142;F;[45-55];[100-125];non;non;Minivan;9;non;Private;Highly Urban/ Urban;0;février;dev_integral;< 300
+143;F;< 15;[125-150];oui;non;Pickup;12;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+144;M;> 75;[25-50];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;5;février;dev_premium;[450-600]
+145;M;> 75;< 25;oui;non;z_SUV;;non;Commercial;Highly Urban/ Urban;7;mai;dev_express;< 300
+146;M;[45-55];[25-50];non;non;z_SUV;11;non;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+147;M;[55-65];[75-100];non;non;z_SUV;7;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+148;M;[35-45];< 25;oui;oui;z_SUV;10;non;Private;z_Highly Rural/ Rural;1;avril;dev_integral;< 300
+149;F;[65-75];[75-100];non;non;z_SUV;19;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+150;F;> 75;[75-100];non;non;Minivan;15;non;Private;z_Highly Rural/ Rural;0;février;dev_express;< 300
+151;M;> 75;[25-50];non;non;Minivan;10;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+152;F;[65-75];[50-75];non;non;z_SUV;5;non;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+153;F;[55-65];< 25;oui;non;Minivan;1;oui;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+154;M;[25-35];[25-50];non;non;Minivan;4;non;Private;Highly Urban/ Urban;1;mars;dev_express;< 300
+155;F;> 75;[25-50];oui;non;Pickup;9;oui;Commercial;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+156;M;> 75;[125-150];oui;oui;Van;12;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+157;F;[65-75];< 25;oui;non;Sports Car;4;non;Private;Highly Urban/ Urban;5;avril;dev_express;< 300
+158;M;[65-75];[75-100];non;non;Pickup;15;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+159;M;> 75;[100-125];non;non;Minivan;9;oui;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+160;M;[65-75];[75-100];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;6;février;dev_integral;< 300
+161;M;[65-75];[75-100];oui;oui;Sports Car;8;non;Private;Highly Urban/ Urban;0;mai;dev_integral;< 300
+162;M;[25-35];[100-125];non;non;z_SUV;12;non;Private;Highly Urban/ Urban;2;mars;dev_premium;[450-600]
+163;F;[45-55];> 150;oui;oui;Minivan;12;non;Private;z_Highly Rural/ Rural;1;février;dev_integral;[300-450]
+164;F;[65-75];[25-50];oui;non;Minivan;14;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+165;F;[55-65];< 25;non;non;Sports Car;8;non;Private;z_Highly Rural/ Rural;1;avril;dev_express;< 300
+166;F;[45-55];< 25;oui;oui;Minivan;1;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+167;F;> 75;[50-75];oui;non;Sports Car;17;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+168;F;[15-25];[25-50];oui;non;Pickup;4;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;< 300
+169;F;[55-65];[100-125];non;non;Panel Truck;;non;Commercial;Highly Urban/ Urban;1;avril;dev_integral;< 300
+170;F;[65-75];[25-50];non;non;z_SUV;11;non;Commercial;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+171;M;[35-45];[75-100];oui;non;Pickup;11;oui;Private;Highly Urban/ Urban;1;février;dev_express;< 300
+172;F;[25-35];< 25;non;non;Minivan;1;non;Commercial;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+173;M;[55-65];[75-100];non;non;Minivan;11;non;Commercial;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+174;F;[45-55];[50-75];oui;non;Minivan;20;oui;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+175;M;[45-55];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+176;M;> 75;[100-125];non;non;Pickup;;non;Commercial;Highly Urban/ Urban;6;janvier;dev_integral;< 300
+177;F;[55-65];< 25;non;non;Van;12;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+178;M;[25-35];< 25;non;non;Sports Car;16;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+179;M;[55-65];< 25;oui;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;< 300
+180;F;[55-65];[25-50];oui;non;Van;6;oui;Commercial;Highly Urban/ Urban;0;mai;dev_premium;[450-600]
+181;F;> 75;[50-75];non;non;Pickup;;non;Commercial;Highly Urban/ Urban;1;mai;dev_express;< 300
+182;F;[25-35];[25-50];oui;oui;Van;6;non;Commercial;z_Highly Rural/ Rural;1;février;dev_express;< 300
+183;M;[45-55];> 150;non;non;Panel Truck;13;oui;Commercial;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+184;F;> 75;[100-125];non;non;Van;10;oui;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+185;F;[65-75];< 25;non;non;Pickup;1;oui;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+186;M;[15-25];[25-50];oui;oui;z_SUV;5;non;Commercial;Highly Urban/ Urban;6;avril;dev_premium;[300-450]
+187;F;[65-75];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+188;F;[15-25];< 25;oui;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+189;F;[65-75];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+190;F;< 15;[75-100];non;non;Minivan;11;non;Private;Highly Urban/ Urban;0;mai;dev_vip;[450-600]
+191;M;[45-55];[75-100];non;non;Van;;oui;Commercial;Highly Urban/ Urban;5;mai;dev_express;< 300
+192;M;< 15;[25-50];non;non;Sports Car;1;non;Private;Highly Urban/ Urban;3;janvier;dev_premium;[450-600]
+193;F;[65-75];[100-125];non;non;Sports Car;7;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+194;F;[25-35];[50-75];non;non;Panel Truck;1;non;Commercial;Highly Urban/ Urban;1;janvier;dev_premium;[450-600]
+195;F;[45-55];> 150;non;non;z_SUV;15;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+196;F;[65-75];[50-75];oui;non;Sports Car;7;non;Private;Highly Urban/ Urban;3;avril;dev_premium;[300-450]
+197;F;[55-65];[50-75];oui;non;Minivan;17;non;Private;Highly Urban/ Urban;4;février;dev_express;< 300
+198;M;> 75;[100-125];non;non;Panel Truck;13;non;Commercial;Highly Urban/ Urban;2;avril;dev_express;< 300
+199;F;[45-55];[25-50];oui;non;z_SUV;4;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+200;F;[65-75];[25-50];non;non;Minivan;;non;Commercial;z_Highly Rural/ Rural;0;février;dev_express;< 300
+201;M;[15-25];[25-50];non;non;Sports Car;8;oui;Private;Highly Urban/ Urban;9;mars;dev_express;< 300
+202;M;[65-75];[50-75];non;non;Pickup;7;oui;Commercial;Highly Urban/ Urban;4;mai;dev_integral;[300-450]
+203;M;[55-65];[25-50];oui;oui;Minivan;1;oui;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+204;F;> 75;[50-75];non;non;z_SUV;14;non;Commercial;z_Highly Rural/ Rural;2;avril;dev_premium;[450-600]
+205;M;> 75;[25-50];oui;non;Sports Car;7;non;Private;Highly Urban/ Urban;3;avril;dev_express;< 300
+206;M;[45-55];[50-75];non;non;Minivan;1;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+207;M;> 75;[50-75];non;non;Minivan;;oui;Commercial;Highly Urban/ Urban;6;mai;dev_integral;[300-450]
+208;M;[55-65];< 25;non;non;Minivan;12;non;Private;z_Highly Rural/ Rural;0;février;dev_express;< 300
+209;M;[55-65];[25-50];oui;oui;Panel Truck;8;oui;Commercial;Highly Urban/ Urban;1;avril;dev_premium;[450-600]
+210;F;[45-55];[25-50];oui;non;z_SUV;5;non;Private;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+211;F;[15-25];[50-75];oui;oui;Minivan;8;non;Private;z_Highly Rural/ Rural;1;janvier;dev_integral;< 300
+212;F;[45-55];[100-125];non;non;Panel Truck;16;oui;Commercial;Highly Urban/ Urban;1;mars;dev_express;< 300
+213;F;[55-65];[25-50];non;non;z_SUV;;oui;Private;Highly Urban/ Urban;1;mai;dev_integral;< 300
+214;F;[45-55];[25-50];non;non;Van;5;non;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+215;M;[55-65];[25-50];oui;non;Van;;non;Commercial;Highly Urban/ Urban;5;février;dev_integral;< 300
+216;M;[65-75];[100-125];non;non;z_SUV;13;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+217;F;[45-55];[25-50];oui;non;Pickup;6;oui;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+218;F;< 15;[50-75];non;non;z_SUV;19;non;Private;Highly Urban/ Urban;8;avril;dev_premium;[300-450]
+219;M;[55-65];< 25;non;non;Sports Car;1;non;Private;Highly Urban/ Urban;0;avril;dev_premium;[450-600]
+220;M;[65-75];[25-50];oui;oui;Minivan;1;non;Private;z_Highly Rural/ Rural;1;avril;dev_integral;[300-450]
+221;M;[65-75];[100-125];oui;non;Sports Car;16;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+222;M;[65-75];< 25;oui;oui;Pickup;18;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+223;F;[25-35];[75-100];non;non;z_SUV;3;non;Private;Highly Urban/ Urban;4;janvier;dev_premium;[450-600]
+224;F;< 15;[100-125];oui;non;z_SUV;5;non;Commercial;Highly Urban/ Urban;5;janvier;dev_integral;[300-450]
+225;F;> 75;[25-50];non;non;Minivan;1;non;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+226;M;[55-65];[125-150];non;non;Minivan;10;non;Private;Highly Urban/ Urban;4;mai;dev_express;< 300
+227;F;[65-75];[25-50];non;non;z_SUV;9;non;Private;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+228;M;[25-35];[25-50];oui;non;z_SUV;3;non;Private;z_Highly Rural/ Rural;0;février;dev_premium;[300-450]
+229;F;[65-75];< 25;non;non;Minivan;1;oui;Private;Highly Urban/ Urban;0;mars;dev_premium;[300-450]
+230;F;> 75;[25-50];non;non;Pickup;1;oui;Private;Highly Urban/ Urban;5;janvier;dev_express;< 300
+231;F;[25-35];[50-75];non;non;z_SUV;;non;Private;Highly Urban/ Urban;3;mai;dev_express;< 300
+232;M;< 15;[50-75];oui;oui;Minivan;7;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+233;F;[25-35];[75-100];non;non;Minivan;;oui;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+234;F;[35-45];[50-75];non;non;z_SUV;10;non;Commercial;Highly Urban/ Urban;2;janvier;dev_express;< 300
+235;F;[65-75];< 25;oui;non;z_SUV;7;non;Private;z_Highly Rural/ Rural;2;avril;dev_integral;[300-450]
+236;M;[65-75];[25-50];non;non;Pickup;16;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+237;F;[35-45];> 150;non;non;Panel Truck;15;non;Commercial;Highly Urban/ Urban;0;mars;dev_premium;[450-600]
+238;F;[65-75];> 150;non;non;z_SUV;15;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+239;M;[65-75];[25-50];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;5;mai;dev_integral;< 300
+240;F;[65-75];[75-100];non;non;Minivan;10;oui;Private;Highly Urban/ Urban;3;février;dev_integral;[300-450]
+241;F;[35-45];[50-75];non;non;Minivan;15;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+242;M;[55-65];[75-100];non;non;z_SUV;7;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+243;F;> 75;< 25;non;non;Pickup;11;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+244;F;> 75;[75-100];oui;oui;Sports Car;12;non;Private;Highly Urban/ Urban;6;mai;dev_express;< 300
+245;M;< 15;[25-50];oui;non;z_SUV;5;non;Private;Highly Urban/ Urban;3;mai;dev_integral;< 300
+246;F;> 75;< 25;non;non;Van;12;oui;Private;Highly Urban/ Urban;3;janvier;dev_integral;< 300
+247;M;[25-35];[50-75];oui;oui;Pickup;7;non;Commercial;Highly Urban/ Urban;0;mai;dev_premium;[300-450]
+248;M;< 15;< 25;oui;non;Van;1;oui;Commercial;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+249;M;[35-45];[25-50];non;non;Pickup;10;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+250;F;[25-35];[75-100];non;non;Minivan;15;non;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+251;M;[15-25];[100-125];non;non;z_SUV;20;non;Private;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+252;F;[35-45];[50-75];non;non;z_SUV;12;non;Commercial;z_Highly Rural/ Rural;5;mai;dev_express;< 300
+253;M;[55-65];[25-50];non;non;Minivan;6;non;Commercial;Highly Urban/ Urban;3;janvier;dev_premium;[300-450]
+254;F;[55-65];[125-150];non;non;Van;18;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+255;M;< 15;[25-50];non;non;Minivan;8;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+256;M;[55-65];[75-100];oui;non;Van;;oui;Commercial;z_Highly Rural/ Rural;2;mai;dev_premium;[450-600]
+257;M;[55-65];< 25;oui;non;Minivan;16;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+258;F;[15-25];[25-50];oui;oui;Minivan;5;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+259;F;> 75;< 25;non;non;Minivan;1;oui;Private;z_Highly Rural/ Rural;0;mars;dev_premium;[450-600]
+260;F;[65-75];[25-50];non;non;Panel Truck;10;non;Commercial;Highly Urban/ Urban;4;février;dev_express;< 300
+261;F;< 15;[50-75];non;non;Panel Truck;8;non;Commercial;Highly Urban/ Urban;5;avril;dev_integral;[300-450]
+262;F;> 75;[75-100];oui;non;Van;9;oui;Commercial;Highly Urban/ Urban;1;février;dev_express;< 300
+263;M;< 15;> 150;non;non;Pickup;17;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+264;M;< 15;[75-100];non;non;Van;10;non;Commercial;Highly Urban/ Urban;7;mars;dev_express;< 300
+265;M;> 75;< 25;non;non;z_SUV;;non;Private;Highly Urban/ Urban;4;mai;dev_integral;[300-450]
+266;M;[55-65];[50-75];non;non;z_SUV;7;non;Private;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+267;M;[45-55];[75-100];non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;1;janvier;dev_premium;[300-450]
+268;M;[15-25];> 150;non;non;Panel Truck;11;non;Commercial;Highly Urban/ Urban;4;mars;dev_express;< 300
+269;F;[65-75];[50-75];non;non;z_SUV;12;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+270;F;[55-65];[100-125];non;non;Minivan;13;non;Private;Highly Urban/ Urban;4;mai;dev_premium;[300-450]
+271;F;[35-45];[25-50];non;non;Sports Car;12;non;Commercial;Highly Urban/ Urban;4;février;dev_integral;[300-450]
+272;M;[65-75];> 150;non;non;Pickup;13;non;Commercial;Highly Urban/ Urban;3;février;dev_express;< 300
+273;F;[35-45];[75-100];non;non;Van;8;non;Commercial;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+274;M;[15-25];[50-75];non;non;Van;1;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+275;M;[45-55];[50-75];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+276;F;> 75;[75-100];non;non;Panel Truck;10;non;Commercial;Highly Urban/ Urban;5;avril;dev_express;< 300
+277;M;[35-45];[75-100];oui;oui;Pickup;8;non;Commercial;Highly Urban/ Urban;4;janvier;dev_integral;[300-450]
+278;M;[55-65];[25-50];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;5;mars;dev_express;< 300
+279;M;[15-25];[125-150];non;non;Panel Truck;20;non;Commercial;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+280;M;[65-75];< 25;non;non;z_SUV;2;non;Private;Highly Urban/ Urban;3;janvier;dev_integral;< 300
+281;M;[55-65];[50-75];non;non;Minivan;12;oui;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+282;M;< 15;< 25;non;non;Sports Car;11;non;Private;Highly Urban/ Urban;5;janvier;dev_premium;[450-600]
+283;F;< 15;[50-75];non;non;Sports Car;12;non;Private;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+284;F;[45-55];[25-50];non;non;Minivan;11;oui;Private;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+285;F;> 75;[75-100];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+286;F;[15-25];[25-50];non;non;Pickup;1;oui;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+287;F;[35-45];[25-50];non;non;Pickup;10;oui;Commercial;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+288;M;[65-75];< 25;non;non;Minivan;7;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+289;F;> 75;> 150;non;non;Panel Truck;17;oui;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+290;M;[55-65];[75-100];oui;non;Pickup;14;non;Private;Highly Urban/ Urban;1;janvier;dev_premium;[450-600]
+291;M;[55-65];[25-50];non;non;Pickup;9;non;Private;Highly Urban/ Urban;4;mars;dev_express;< 300
+292;M;[15-25];[50-75];non;non;Pickup;8;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+293;M;< 15;[25-50];non;non;Minivan;;non;Private;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+294;M;< 15;[50-75];non;non;Van;4;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+295;F;[15-25];[25-50];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+296;F;[45-55];[75-100];oui;non;z_SUV;11;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+297;F;< 15;[25-50];non;non;z_SUV;;non;Private;Highly Urban/ Urban;6;avril;dev_premium;[450-600]
+298;F;> 75;[100-125];oui;oui;Minivan;11;oui;Private;Highly Urban/ Urban;1;février;dev_express;< 300
+299;F;[65-75];[50-75];non;non;Pickup;10;oui;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+300;F;[15-25];[25-50];oui;non;Panel Truck;21;non;Commercial;Highly Urban/ Urban;1;mars;dev_express;< 300
+301;M;[45-55];< 25;non;non;Sports Car;1;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;< 300
+302;F;< 15;[75-100];oui;non;Pickup;10;non;Private;z_Highly Rural/ Rural;0;avril;dev_integral;< 300
+303;F;[45-55];< 25;oui;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+304;F;[65-75];< 25;oui;oui;Minivan;1;oui;Private;Highly Urban/ Urban;3;mai;dev_integral;[300-450]
+305;F;> 75;[25-50];non;non;Pickup;10;non;Private;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+306;F;[65-75];> 150;non;non;Sports Car;12;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+307;M;< 15;[125-150];non;non;Pickup;20;oui;Commercial;Highly Urban/ Urban;4;janvier;dev_express;< 300
+308;F;[65-75];< 25;non;non;z_SUV;3;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+309;F;[15-25];[50-75];non;non;Minivan;11;non;Private;Highly Urban/ Urban;0;février;dev_premium;[300-450]
+310;F;[45-55];[125-150];non;non;Panel Truck;19;oui;Commercial;Highly Urban/ Urban;5;janvier;dev_express;< 300
+311;F;[45-55];< 25;non;non;Minivan;11;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+312;M;[35-45];[25-50];non;non;Sports Car;7;oui;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+313;M;[35-45];[25-50];non;non;Minivan;8;non;Private;z_Highly Rural/ Rural;0;mai;dev_premium;[450-600]
+314;M;[65-75];[25-50];oui;oui;Sports Car;1;non;Private;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+315;F;[55-65];[125-150];oui;non;Pickup;12;non;Private;Highly Urban/ Urban;2;avril;dev_integral;[300-450]
+316;M;[15-25];< 25;non;non;Minivan;1;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+317;M;> 75;[100-125];non;non;Minivan;11;oui;Private;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+318;F;< 15;[25-50];non;non;Panel Truck;7;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+319;F;[45-55];< 25;oui;non;z_SUV;5;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+320;M;> 75;< 25;oui;oui;Pickup;9;oui;Private;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+321;F;[55-65];[125-150];non;non;Van;14;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+322;F;> 75;< 25;oui;oui;z_SUV;4;non;Private;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+323;F;[65-75];[75-100];non;non;Sports Car;6;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+324;F;[35-45];< 25;oui;non;Pickup;1;non;Commercial;z_Highly Rural/ Rural;7;mai;dev_express;< 300
+325;F;[55-65];[25-50];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;6;mai;dev_express;< 300
+326;M;< 15;[75-100];non;non;Minivan;1;non;Commercial;Highly Urban/ Urban;3;février;dev_express;< 300
+327;F;[65-75];[75-100];non;non;Minivan;19;oui;Private;Highly Urban/ Urban;2;février;dev_integral;[300-450]
+328;F;[55-65];[25-50];non;non;z_SUV;12;non;Commercial;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+329;F;[45-55];[25-50];non;non;Minivan;1;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+330;F;[55-65];[25-50];non;non;z_SUV;9;non;Private;z_Highly Rural/ Rural;1;mai;dev_premium;[300-450]
+331;F;[45-55];[50-75];non;non;Pickup;9;oui;Private;Highly Urban/ Urban;2;janvier;dev_vip;> 600
+332;M;> 75;< 25;oui;oui;Minivan;1;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+333;M;[35-45];[25-50];non;non;Sports Car;4;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+334;M;[45-55];[25-50];oui;non;Van;7;oui;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;< 300
+335;F;[65-75];[50-75];oui;non;Minivan;9;non;Commercial;Highly Urban/ Urban;5;mars;dev_integral;[300-450]
+336;F;[45-55];[75-100];oui;non;z_SUV;20;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+337;M;[15-25];[50-75];non;non;Sports Car;15;non;Private;Highly Urban/ Urban;0;février;dev_integral;< 300
+338;M;[45-55];[25-50];non;non;Pickup;7;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+339;M;[35-45];[100-125];oui;non;z_SUV;9;non;Commercial;Highly Urban/ Urban;0;avril;dev_integral;< 300
+340;F;[25-35];< 25;oui;oui;Sports Car;6;non;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+341;M;[55-65];[100-125];oui;non;Panel Truck;8;non;Commercial;Highly Urban/ Urban;4;mars;dev_express;< 300
+342;M;> 75;[25-50];oui;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+343;M;[35-45];[50-75];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;7;mai;dev_integral;[300-450]
+344;M;> 75;[25-50];non;non;Minivan;5;non;Commercial;Highly Urban/ Urban;3;avril;dev_integral;< 300
+345;M;[55-65];[100-125];non;non;Van;8;oui;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+346;M;[55-65];[100-125];non;non;z_SUV;;non;Private;Highly Urban/ Urban;2;mars;dev_premium;[450-600]
+347;F;[15-25];[50-75];non;non;Panel Truck;14;non;Commercial;Highly Urban/ Urban;10;février;dev_express;< 300
+348;F;[15-25];[100-125];oui;non;Panel Truck;3;non;Commercial;Highly Urban/ Urban;3;mars;dev_integral;< 300
+349;F;> 75;< 25;non;non;Minivan;10;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+350;M;[35-45];< 25;non;non;Sports Car;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+351;F;> 75;[100-125];oui;oui;Minivan;10;non;Private;Highly Urban/ Urban;4;janvier;dev_vip;> 600
+352;M;[25-35];[50-75];non;non;Minivan;13;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+353;M;[65-75];[75-100];oui;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+354;F;> 75;> 150;non;non;Sports Car;20;non;Private;Highly Urban/ Urban;8;mai;dev_integral;[300-450]
+355;M;> 75;[75-100];oui;non;Panel Truck;1;non;Commercial;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+356;F;[45-55];[75-100];oui;non;Minivan;18;non;Private;Highly Urban/ Urban;2;janvier;dev_express;< 300
+357;F;[45-55];< 25;non;non;z_SUV;25;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+358;M;[25-35];[100-125];oui;non;Panel Truck;19;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+359;M;< 15;[25-50];oui;non;Pickup;17;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+360;F;[45-55];[50-75];non;non;Pickup;11;oui;Commercial;z_Highly Rural/ Rural;2;janvier;dev_integral;[300-450]
+361;F;[55-65];[50-75];non;non;Van;13;non;Private;Highly Urban/ Urban;3;mai;dev_express;< 300
+362;M;[65-75];[25-50];oui;non;z_SUV;8;non;Commercial;z_Highly Rural/ Rural;0;mars;dev_premium;[300-450]
+363;M;[15-25];[25-50];oui;non;z_SUV;5;non;Commercial;Highly Urban/ Urban;1;mai;dev_express;< 300
+364;F;[55-65];[50-75];oui;non;Minivan;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_premium;[450-600]
+365;M;[25-35];< 25;oui;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;3;janvier;dev_integral;< 300
+366;M;[55-65];< 25;oui;non;Minivan;;oui;Private;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+367;F;[35-45];[25-50];oui;non;Minivan;8;oui;Private;z_Highly Rural/ Rural;4;avril;dev_integral;< 300
+368;F;[55-65];[125-150];non;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+369;F;[65-75];[25-50];non;non;Minivan;7;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+370;M;< 15;[25-50];oui;non;Sports Car;13;non;Private;Highly Urban/ Urban;0;février;dev_premium;[300-450]
+371;F;[35-45];< 25;oui;oui;z_SUV;10;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+372;M;[55-65];< 25;non;non;Minivan;;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+373;M;> 75;[25-50];non;non;Panel Truck;8;non;Commercial;z_Highly Rural/ Rural;2;mai;dev_integral;[300-450]
+374;F;[45-55];< 25;oui;non;Minivan;1;non;Private;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+375;F;[45-55];[25-50];non;non;z_SUV;;non;Private;Highly Urban/ Urban;3;avril;dev_express;< 300
+376;M;[45-55];[25-50];oui;non;z_SUV;6;non;Private;Highly Urban/ Urban;3;mai;dev_express;< 300
+377;F;[65-75];[25-50];oui;non;z_SUV;11;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+378;M;[15-25];[50-75];oui;non;Minivan;21;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+379;M;[65-75];[25-50];oui;oui;Minivan;8;oui;Private;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+380;F;[55-65];[75-100];non;non;Minivan;;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+381;M;< 15;> 150;oui;non;Minivan;18;non;Private;Highly Urban/ Urban;1;janvier;dev_express;< 300
+382;M;> 75;[50-75];non;non;Van;7;oui;Commercial;Highly Urban/ Urban;2;janvier;dev_express;< 300
+383;M;[65-75];[125-150];non;non;Van;16;non;Commercial;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+384;M;> 75;[125-150];non;non;Sports Car;14;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+385;M;< 15;[75-100];oui;non;z_SUV;11;non;Commercial;Highly Urban/ Urban;0;mai;dev_integral;< 300
+386;F;[65-75];[25-50];oui;non;z_SUV;4;non;Commercial;Highly Urban/ Urban;3;avril;dev_express;< 300
+387;M;< 15;[125-150];non;non;Minivan;19;non;Private;Highly Urban/ Urban;4;février;dev_express;< 300
+388;F;> 75;< 25;non;non;Pickup;14;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+389;M;[35-45];[25-50];non;non;z_SUV;5;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+390;M;[65-75];[100-125];oui;non;Minivan;16;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+391;F;[35-45];[100-125];oui;oui;z_SUV;12;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+392;F;[35-45];< 25;non;non;Sports Car;15;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+393;F;[35-45];< 25;non;non;Minivan;11;non;Commercial;Highly Urban/ Urban;2;mai;dev_express;< 300
+394;M;[45-55];[100-125];non;non;Panel Truck;7;oui;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+395;F;[65-75];[100-125];non;non;Van;3;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+396;M;> 75;[25-50];non;non;Pickup;8;oui;Commercial;Highly Urban/ Urban;3;janvier;dev_express;< 300
+397;F;[35-45];[50-75];oui;oui;Pickup;8;non;Commercial;Highly Urban/ Urban;1;février;dev_premium;[300-450]
+398;M;> 75;< 25;non;non;z_SUV;16;non;Private;z_Highly Rural/ Rural;0;avril;dev_premium;[300-450]
+399;M;> 75;< 25;non;non;z_SUV;10;non;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+400;M;[65-75];[75-100];oui;oui;Minivan;9;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;< 300
+401;F;[15-25];< 25;non;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;7;février;dev_integral;[300-450]
+402;M;< 15;[125-150];non;non;Panel Truck;5;non;Commercial;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+403;M;> 75;< 25;oui;non;z_SUV;5;non;Private;Highly Urban/ Urban;8;janvier;dev_express;< 300
+404;M;[65-75];> 150;non;non;Panel Truck;16;non;Commercial;Highly Urban/ Urban;0;janvier;dev_express;< 300
+405;M;[55-65];> 150;non;non;Panel Truck;19;oui;Commercial;Highly Urban/ Urban;5;janvier;dev_express;< 300
+406;F;< 15;[50-75];oui;non;Minivan;7;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+407;F;[15-25];[75-100];oui;non;z_SUV;8;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;< 300
+408;M;< 15;[75-100];oui;non;Minivan;9;non;Private;Highly Urban/ Urban;2;avril;dev_premium;[300-450]
+409;M;[35-45];< 25;non;non;Van;14;oui;Commercial;Highly Urban/ Urban;1;mars;dev_premium;[300-450]
+410;F;[55-65];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;février;dev_premium;[300-450]
+411;M;[65-75];[25-50];oui;non;Van;1;oui;Commercial;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+412;M;[45-55];[100-125];non;non;Sports Car;14;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+413;F;> 75;[75-100];non;non;Pickup;;non;Private;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+414;F;< 15;< 25;non;non;z_SUV;16;non;Private;z_Highly Rural/ Rural;2;janvier;dev_premium;[450-600]
+415;M;> 75;[75-100];non;non;Pickup;16;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;< 300
+416;F;[55-65];[25-50];non;non;Pickup;;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+417;M;[45-55];< 25;non;non;Pickup;1;non;Private;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+418;F;[35-45];< 25;oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;7;mars;dev_integral;[300-450]
+419;M;[65-75];< 25;non;non;Pickup;1;non;Private;Highly Urban/ Urban;6;mars;dev_express;< 300
+420;F;[35-45];< 25;oui;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+421;M;[65-75];[25-50];oui;oui;Pickup;1;oui;Commercial;Highly Urban/ Urban;5;mai;dev_integral;[300-450]
+422;M;[15-25];[75-100];non;non;Van;16;non;Private;Highly Urban/ Urban;11;avril;dev_integral;[300-450]
+423;M;[65-75];< 25;non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;2;avril;dev_integral;[300-450]
+424;M;> 75;[75-100];non;non;Minivan;7;oui;Commercial;Highly Urban/ Urban;6;mars;dev_integral;[300-450]
+425;F;> 75;[75-100];non;non;Sports Car;12;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+426;M;[45-55];[75-100];non;non;z_SUV;7;non;Commercial;z_Highly Rural/ Rural;1;avril;dev_premium;[450-600]
+427;M;[35-45];< 25;oui;oui;Minivan;5;non;Commercial;Highly Urban/ Urban;0;mars;dev_premium;[450-600]
+428;F;[55-65];[50-75];non;non;Minivan;1;non;Private;Highly Urban/ Urban;2;avril;dev_integral;[300-450]
+429;F;[55-65];[100-125];non;non;Panel Truck;18;non;Commercial;Highly Urban/ Urban;6;mai;dev_express;< 300
+430;F;[65-75];[25-50];oui;oui;z_SUV;11;non;Private;z_Highly Rural/ Rural;4;avril;dev_integral;[300-450]
+431;F;[45-55];[25-50];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;3;janvier;dev_express;< 300
+432;M;[15-25];[50-75];non;non;Panel Truck;4;oui;Commercial;z_Highly Rural/ Rural;1;mai;dev_vip;> 600
+433;F;> 75;< 25;non;non;Pickup;17;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+434;F;< 15;[25-50];non;non;Minivan;15;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+435;F;[65-75];[50-75];non;non;Panel Truck;;oui;Commercial;Highly Urban/ Urban;5;février;dev_integral;[300-450]
+436;F;[55-65];< 25;non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+437;F;> 75;[75-100];non;non;Pickup;13;non;Commercial;Highly Urban/ Urban;3;février;dev_express;< 300
+438;F;[55-65];[25-50];oui;non;Van;12;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+439;M;> 75;< 25;oui;non;z_SUV;6;non;Commercial;Highly Urban/ Urban;2;février;dev_premium;[300-450]
+440;F;[55-65];< 25;oui;non;Sports Car;9;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+441;F;[25-35];< 25;non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;0;mars;dev_premium;[300-450]
+442;F;[65-75];< 25;non;non;Pickup;;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+443;F;[45-55];[25-50];non;non;Pickup;19;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+444;F;> 75;[50-75];oui;non;z_SUV;7;non;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+445;M;[65-75];< 25;non;non;z_SUV;15;non;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+446;F;> 75;[100-125];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+447;M;[45-55];[75-100];oui;non;z_SUV;9;non;Private;Highly Urban/ Urban;4;mai;dev_integral;< 300
+448;M;[65-75];< 25;oui;non;z_SUV;6;non;Private;Highly Urban/ Urban;1;mars;dev_integral;< 300
+449;F;[65-75];< 25;oui;oui;z_SUV;1;non;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+450;F;> 75;[50-75];oui;non;Sports Car;12;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+451;M;[25-35];< 25;non;non;Pickup;4;oui;Commercial;Highly Urban/ Urban;7;janvier;dev_express;< 300
+452;F;> 75;< 25;oui;non;z_SUV;8;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+453;F;[45-55];[125-150];non;non;z_SUV;20;non;Private;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+454;M;[35-45];[50-75];non;non;Van;4;non;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+455;F;[25-35];[25-50];oui;non;Minivan;10;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+456;F;[35-45];[75-100];non;non;Pickup;;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+457;F;[45-55];[75-100];non;non;Van;1;oui;Commercial;Highly Urban/ Urban;5;février;dev_integral;[300-450]
+458;F;[35-45];< 25;oui;non;Sports Car;8;non;Private;Highly Urban/ Urban;2;avril;dev_premium;[450-600]
+459;M;[25-35];> 150;non;non;Pickup;1;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+460;M;[35-45];[75-100];oui;oui;Minivan;1;oui;Private;Highly Urban/ Urban;1;janvier;dev_integral;< 300
+461;M;[55-65];< 25;non;non;z_SUV;9;non;Private;z_Highly Rural/ Rural;0;mars;dev_premium;[300-450]
+462;M;[45-55];[75-100];non;non;Sports Car;5;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+463;M;[25-35];[75-100];non;non;Panel Truck;12;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+464;F;[55-65];[50-75];non;non;Minivan;11;non;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+465;M;> 75;< 25;oui;oui;Pickup;5;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;< 300
+466;M;> 75;[50-75];non;non;Pickup;12;oui;Commercial;z_Highly Rural/ Rural;1;mars;dev_express;< 300
+467;F;< 15;> 150;oui;oui;Van;;oui;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+468;F;< 15;[75-100];non;non;Panel Truck;;non;Commercial;Highly Urban/ Urban;1;janvier;dev_premium;[450-600]
+469;F;[15-25];< 25;non;non;z_SUV;6;non;Private;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+470;F;[55-65];< 25;oui;oui;Minivan;1;non;Commercial;Highly Urban/ Urban;6;janvier;dev_integral;[300-450]
+471;F;[55-65];< 25;oui;non;z_SUV;6;non;Private;Highly Urban/ Urban;7;mai;dev_express;< 300
+472;M;[25-35];[75-100];non;non;Minivan;9;oui;Private;Highly Urban/ Urban;1;mars;dev_express;< 300
+473;M;[15-25];[25-50];oui;non;z_SUV;4;non;Private;Highly Urban/ Urban;7;janvier;dev_premium;[450-600]
+474;F;< 15;[50-75];oui;non;Pickup;9;non;Private;Highly Urban/ Urban;2;avril;dev_integral;[300-450]
+475;M;[55-65];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+476;F;[15-25];< 25;oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;8;mars;dev_express;< 300
+477;F;> 75;< 25;non;non;z_SUV;8;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+478;M;[25-35];[100-125];non;non;Panel Truck;18;oui;Commercial;Highly Urban/ Urban;0;avril;dev_integral;< 300
+479;M;[25-35];> 150;non;non;Minivan;11;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+480;F;[65-75];[50-75];non;non;Pickup;6;oui;Commercial;Highly Urban/ Urban;1;avril;dev_express;< 300
+481;F;[65-75];< 25;non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+482;F;[65-75];< 25;oui;non;Van;1;oui;Private;Highly Urban/ Urban;6;mai;dev_express;< 300
+483;F;[25-35];[50-75];oui;non;z_SUV;;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+484;F;[45-55];[50-75];oui;oui;Minivan;7;non;Private;Highly Urban/ Urban;3;mai;dev_premium;[450-600]
+485;F;[65-75];[100-125];non;non;Sports Car;10;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+486;F;< 15;< 25;non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_integral;< 300
+487;F;[15-25];[25-50];oui;oui;Sports Car;1;non;Private;Highly Urban/ Urban;1;avril;dev_integral;< 300
+488;M;[55-65];[25-50];non;non;z_SUV;1;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_premium;[300-450]
+489;M;< 15;[25-50];oui;non;Sports Car;10;non;Private;Highly Urban/ Urban;5;février;dev_express;< 300
+490;M;[25-35];[25-50];oui;non;Minivan;8;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+491;F;[55-65];[50-75];oui;oui;z_SUV;10;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+492;M;[65-75];[50-75];oui;non;z_SUV;6;non;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+493;F;> 75;< 25;non;non;Pickup;11;oui;Commercial;z_Highly Rural/ Rural;2;mars;dev_integral;< 300
+494;M;[45-55];[25-50];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;4;février;dev_integral;[300-450]
+495;F;< 15;[100-125];non;non;Panel Truck;8;oui;Commercial;Highly Urban/ Urban;4;mai;dev_premium;[450-600]
+496;F;[15-25];[25-50];non;non;Minivan;;non;Private;z_Highly Rural/ Rural;3;mai;dev_premium;[300-450]
+497;F;[65-75];[75-100];non;non;Van;13;oui;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;< 300
+498;M;< 15;< 25;oui;oui;Pickup;1;oui;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+499;M;[45-55];> 150;non;non;Pickup;19;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+500;M;> 75;< 25;non;non;z_SUV;9;non;Private;z_Highly Rural/ Rural;1;mars;dev_integral;[300-450]
+501;M;[15-25];[50-75];non;non;Pickup;;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+502;F;[55-65];[100-125];non;non;Minivan;15;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+503;F;> 75;[25-50];non;non;Pickup;10;non;Private;z_Highly Rural/ Rural;0;mai;dev_premium;[450-600]
+504;F;< 15;[125-150];non;non;z_SUV;7;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+505;F;[55-65];[25-50];oui;non;Pickup;1;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+506;F;> 75;[100-125];non;non;Van;12;non;Commercial;Highly Urban/ Urban;2;mai;dev_express;< 300
+507;F;[45-55];[50-75];non;non;Pickup;1;oui;Private;z_Highly Rural/ Rural;1;mai;dev_integral;[300-450]
+508;M;[45-55];< 25;non;non;Minivan;8;oui;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+509;F;[45-55];[125-150];non;non;Van;10;oui;Commercial;Highly Urban/ Urban;3;mars;dev_premium;[300-450]
+510;F;[45-55];[125-150];non;non;Minivan;13;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+511;F;[55-65];[75-100];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+512;M;[55-65];< 25;oui;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;2;janvier;dev_express;< 300
+513;F;[15-25];< 25;non;non;Minivan;17;oui;Commercial;Highly Urban/ Urban;1;avril;dev_integral;< 300
+514;M;[55-65];[25-50];non;non;Pickup;7;oui;Commercial;z_Highly Rural/ Rural;0;mai;dev_premium;[300-450]
+515;M;[55-65];[75-100];non;non;Minivan;21;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+516;M;[55-65];[125-150];oui;non;Minivan;8;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+517;F;[55-65];[75-100];oui;non;Minivan;1;non;Commercial;Highly Urban/ Urban;7;mars;dev_integral;< 300
+518;F;[25-35];[100-125];non;non;Panel Truck;11;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+519;M;[25-35];< 25;non;non;Minivan;22;oui;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+520;F;> 75;[125-150];non;non;z_SUV;10;non;Commercial;Highly Urban/ Urban;4;avril;dev_premium;[450-600]
+521;M;[65-75];[25-50];non;non;Minivan;;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+522;F;[65-75];[25-50];non;non;z_SUV;8;non;Private;Highly Urban/ Urban;2;février;dev_integral;< 300
+523;M;< 15;< 25;oui;oui;Minivan;4;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+524;M;[15-25];[100-125];non;non;Minivan;;non;Private;Highly Urban/ Urban;3;mai;dev_express;< 300
+525;F;> 75;[25-50];non;non;z_SUV;7;non;Private;Highly Urban/ Urban;5;avril;dev_express;< 300
+526;F;[55-65];< 25;non;non;Minivan;1;oui;Private;Highly Urban/ Urban;0;mai;dev_premium;[300-450]
+527;M;[25-35];< 25;non;non;Pickup;1;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+528;F;[55-65];[25-50];oui;oui;z_SUV;6;non;Private;Highly Urban/ Urban;9;mai;dev_integral;[300-450]
+529;M;> 75;[75-100];oui;non;Pickup;4;non;Commercial;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+530;M;> 75;[50-75];oui;non;Sports Car;;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+531;F;> 75;[25-50];non;non;Minivan;9;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+532;M;[55-65];[25-50];oui;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;4;mars;dev_express;< 300
+533;M;[45-55];[50-75];oui;oui;Pickup;8;oui;Commercial;z_Highly Rural/ Rural;2;mars;dev_express;< 300
+534;M;> 75;< 25;non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;3;mars;dev_express;< 300
+535;M;[65-75];[25-50];oui;non;Pickup;13;oui;Commercial;z_Highly Rural/ Rural;2;mai;dev_premium;[300-450]
+536;M;[45-55];< 25;oui;non;Pickup;9;oui;Private;Highly Urban/ Urban;3;avril;dev_express;< 300
+537;F;[55-65];[50-75];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+538;F;[65-75];< 25;oui;non;Minivan;;oui;Private;z_Highly Rural/ Rural;2;janvier;dev_express;< 300
+539;F;[35-45];< 25;oui;non;Sports Car;8;non;Private;z_Highly Rural/ Rural;2;janvier;dev_integral;< 300
+540;F;[45-55];< 25;non;non;Pickup;1;oui;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+541;M;< 15;[125-150];non;non;Pickup;15;non;Private;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+542;F;< 15;[75-100];oui;oui;Sports Car;18;non;Private;Highly Urban/ Urban;7;mars;dev_express;< 300
+543;M;> 75;[50-75];non;non;Minivan;12;non;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+544;M;> 75;[25-50];non;non;Minivan;17;oui;Private;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+545;F;[55-65];[50-75];non;non;Sports Car;1;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+546;F;> 75;[75-100];oui;oui;Panel Truck;14;oui;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+547;M;[55-65];[25-50];non;non;Sports Car;9;non;Private;Highly Urban/ Urban;2;février;dev_integral;< 300
+548;M;[25-35];[25-50];non;non;z_SUV;7;non;Private;Highly Urban/ Urban;3;avril;dev_express;< 300
+549;F;[65-75];[50-75];non;non;Sports Car;9;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+550;M;[65-75];> 150;non;non;z_SUV;12;non;Private;Highly Urban/ Urban;3;janvier;dev_integral;< 300
+551;F;[25-35];[25-50];oui;non;Pickup;11;oui;Private;z_Highly Rural/ Rural;2;février;dev_premium;[450-600]
+552;M;[35-45];[75-100];non;non;z_SUV;18;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+553;M;[65-75];< 25;non;non;Sports Car;20;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+554;M;> 75;[25-50];non;non;z_SUV;9;non;Commercial;Highly Urban/ Urban;4;mars;dev_integral;[300-450]
+555;M;[45-55];[25-50];non;non;z_SUV;5;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+556;M;> 75;[25-50];oui;oui;Pickup;7;non;Commercial;Highly Urban/ Urban;1;mars;dev_express;< 300
+557;M;[15-25];< 25;non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;0;avril;dev_express;< 300
+558;M;< 15;[50-75];oui;non;Minivan;;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+559;F;[65-75];< 25;non;non;Panel Truck;;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+560;M;> 75;< 25;non;non;Pickup;1;oui;Private;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+561;M;< 15;[50-75];non;non;Minivan;19;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+562;M;[15-25];< 25;non;non;Sports Car;10;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+563;M;[35-45];[25-50];non;non;Van;18;oui;Commercial;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+564;M;[45-55];< 25;oui;non;Minivan;10;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+565;F;[15-25];< 25;oui;non;Van;1;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+566;M;[25-35];[75-100];oui;oui;z_SUV;16;non;Private;Highly Urban/ Urban;4;mai;dev_express;< 300
+567;F;[55-65];< 25;non;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+568;M;< 15;< 25;oui;oui;Pickup;7;non;Private;Highly Urban/ Urban;1;février;dev_integral;[300-450]
+569;F;> 75;> 150;non;non;Pickup;15;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+570;M;[25-35];[50-75];non;non;z_SUV;13;non;Private;Highly Urban/ Urban;4;mai;dev_express;< 300
+571;F;[55-65];> 150;non;non;Minivan;14;non;Private;Highly Urban/ Urban;0;mars;dev_premium;[300-450]
+572;F;[15-25];[75-100];oui;non;Panel Truck;24;oui;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[450-600]
+573;F;[65-75];< 25;non;non;Pickup;10;non;Commercial;Highly Urban/ Urban;3;janvier;dev_express;< 300
+574;F;[65-75];[75-100];non;non;z_SUV;13;non;Private;Highly Urban/ Urban;4;mars;dev_express;< 300
+575;F;< 15;< 25;non;non;Pickup;17;oui;Private;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+576;M;> 75;[75-100];oui;non;Van;8;oui;Commercial;Highly Urban/ Urban;4;mai;dev_integral;< 300
+577;F;[55-65];[50-75];non;non;Pickup;15;oui;Private;Highly Urban/ Urban;0;mai;dev_integral;< 300
+578;M;[15-25];< 25;non;non;Minivan;10;non;Commercial;Highly Urban/ Urban;1;mai;dev_express;< 300
+579;M;[55-65];< 25;non;non;Minivan;1;oui;Private;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+580;M;[45-55];[75-100];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;8;mai;dev_integral;[300-450]
+581;M;[55-65];[25-50];oui;non;Minivan;1;oui;Private;Highly Urban/ Urban;2;avril;dev_premium;[300-450]
+582;M;[45-55];< 25;oui;non;Panel Truck;10;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_express;< 300
+583;M;[55-65];[50-75];oui;non;Minivan;13;oui;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+584;M;> 75;< 25;non;non;Minivan;7;oui;Private;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+585;F;[35-45];[75-100];non;non;Minivan;;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+586;M;> 75;< 25;non;non;Sports Car;1;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+587;M;> 75;[50-75];oui;oui;z_SUV;5;non;Private;Highly Urban/ Urban;1;mai;dev_premium;[300-450]
+588;M;> 75;< 25;oui;non;z_SUV;10;non;Private;z_Highly Rural/ Rural;0;mars;dev_premium;[300-450]
+589;M;[55-65];< 25;non;non;z_SUV;3;non;Private;Highly Urban/ Urban;5;février;dev_integral;< 300
+590;M;[35-45];< 25;oui;oui;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;avril;dev_express;< 300
+591;F;> 75;[25-50];non;non;Pickup;1;oui;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+592;F;[45-55];[125-150];non;non;Panel Truck;10;oui;Commercial;Highly Urban/ Urban;5;mai;dev_integral;[300-450]
+593;M;< 15;[100-125];non;non;Van;;oui;Private;Highly Urban/ Urban;6;janvier;dev_express;< 300
+594;M;< 15;[75-100];oui;non;z_SUV;14;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+595;F;> 75;[50-75];non;non;z_SUV;6;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+596;M;> 75;[25-50];non;non;Sports Car;19;non;Private;Highly Urban/ Urban;1;janvier;dev_express;< 300
+597;M;[35-45];< 25;non;non;Minivan;6;oui;Private;z_Highly Rural/ Rural;2;février;dev_integral;[300-450]
+598;M;> 75;> 150;non;non;Minivan;14;oui;Private;Highly Urban/ Urban;2;mars;dev_integral;< 300
+599;M;[55-65];< 25;non;non;Sports Car;20;non;Private;z_Highly Rural/ Rural;2;février;dev_premium;[300-450]
+600;F;[25-35];[75-100];oui;non;Pickup;7;oui;Commercial;Highly Urban/ Urban;7;février;dev_integral;< 300
+601;M;[55-65];< 25;oui;oui;Pickup;1;oui;Commercial;z_Highly Rural/ Rural;2;mars;dev_premium;[300-450]
+602;M;[55-65];[75-100];oui;oui;z_SUV;13;non;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+603;F;[55-65];< 25;oui;oui;Minivan;13;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+604;M;[65-75];> 150;non;non;Panel Truck;6;oui;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+605;F;< 15;[75-100];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;3;janvier;dev_premium;[450-600]
+606;M;[25-35];< 25;non;non;Sports Car;7;non;Private;z_Highly Rural/ Rural;0;mai;dev_premium;[450-600]
+607;F;[55-65];[50-75];oui;non;Minivan;15;oui;Private;Highly Urban/ Urban;1;février;dev_integral;[300-450]
+608;M;[45-55];[50-75];non;non;Van;13;oui;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[450-600]
+609;M;[65-75];[50-75];non;non;Minivan;7;non;Commercial;Highly Urban/ Urban;2;février;dev_integral;< 300
+610;F;< 15;[25-50];oui;non;z_SUV;7;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+611;M;[65-75];[75-100];non;non;Minivan;7;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+612;M;[15-25];[125-150];oui;non;Minivan;16;oui;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+613;F;[35-45];[75-100];non;non;z_SUV;15;non;Private;z_Highly Rural/ Rural;0;janvier;dev_premium;[300-450]
+614;M;< 15;[25-50];non;non;Minivan;7;non;Commercial;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+615;M;[15-25];> 150;non;non;Van;18;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+616;F;[65-75];> 150;non;non;Sports Car;21;non;Private;Highly Urban/ Urban;4;mars;dev_express;< 300
+617;F;< 15;[75-100];non;non;z_SUV;13;non;Private;z_Highly Rural/ Rural;1;janvier;dev_integral;[300-450]
+618;M;[55-65];[25-50];oui;oui;Sports Car;11;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+619;F;< 15;[25-50];non;non;Sports Car;;non;Commercial;Highly Urban/ Urban;2;février;dev_integral;< 300
+620;F;[25-35];[75-100];non;non;Minivan;;oui;Private;z_Highly Rural/ Rural;2;avril;dev_express;< 300
+621;M;[65-75];< 25;oui;non;Minivan;5;oui;Private;Highly Urban/ Urban;3;mai;dev_integral;[300-450]
+622;F;[15-25];> 150;non;non;Panel Truck;17;oui;Commercial;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+623;M;[15-25];[75-100];non;non;Sports Car;14;non;Private;Highly Urban/ Urban;3;mars;dev_express;< 300
+624;M;[15-25];[100-125];non;non;Pickup;10;non;Private;Highly Urban/ Urban;0;mai;dev_integral;< 300
+625;M;[15-25];[50-75];non;non;Sports Car;11;non;Commercial;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+626;M;[15-25];[25-50];non;non;Van;18;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+627;M;[15-25];[25-50];non;non;Pickup;1;non;Private;z_Highly Rural/ Rural;3;février;dev_premium;[450-600]
+628;F;[55-65];[100-125];non;non;Minivan;11;non;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+629;M;< 15;> 150;non;non;Minivan;13;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+630;M;[35-45];[75-100];non;non;Minivan;9;oui;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+631;M;[45-55];[25-50];non;non;Sports Car;1;non;Private;Highly Urban/ Urban;4;avril;dev_integral;< 300
+632;M;[15-25];[50-75];non;non;Pickup;8;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+633;M;< 15;[125-150];non;non;Minivan;15;oui;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+634;F;> 75;[50-75];non;non;Sports Car;8;non;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+635;F;[15-25];[75-100];oui;non;Van;7;non;Commercial;Highly Urban/ Urban;1;mars;dev_express;< 300
+636;F;[15-25];[50-75];oui;oui;Pickup;10;non;Commercial;Highly Urban/ Urban;4;février;dev_integral;[300-450]
+637;F;[25-35];[75-100];non;non;Panel Truck;;non;Commercial;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+638;F;[65-75];[25-50];non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;février;dev_integral;< 300
+639;F;[65-75];[50-75];oui;non;Pickup;1;non;Commercial;Highly Urban/ Urban;2;mars;dev_express;< 300
+640;F;> 75;[25-50];non;non;Pickup;1;non;Commercial;Highly Urban/ Urban;1;avril;dev_premium;[300-450]
+641;M;[65-75];< 25;oui;oui;Sports Car;1;non;Private;Highly Urban/ Urban;4;février;dev_premium;[450-600]
+642;F;[15-25];< 25;non;non;Minivan;7;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+643;F;[25-35];[25-50];non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;< 300
+644;M;[55-65];< 25;oui;oui;Minivan;7;oui;Private;z_Highly Rural/ Rural;2;mai;dev_integral;[300-450]
+645;F;[45-55];> 150;non;non;Minivan;17;non;Private;Highly Urban/ Urban;6;avril;dev_premium;[300-450]
+646;F;[15-25];[75-100];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+647;M;[65-75];[125-150];oui;non;Minivan;25;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+648;M;[55-65];[75-100];non;non;Minivan;9;non;Commercial;z_Highly Rural/ Rural;1;mai;dev_integral;[300-450]
+649;M;[25-35];> 150;non;non;Pickup;16;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+650;F;[25-35];[75-100];oui;non;Sports Car;;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+651;M;[55-65];[25-50];non;non;z_SUV;8;non;Commercial;z_Highly Rural/ Rural;1;février;dev_premium;[300-450]
+652;F;[55-65];[50-75];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+653;M;[65-75];[25-50];oui;non;Minivan;1;non;Commercial;Highly Urban/ Urban;6;janvier;dev_integral;< 300
+654;F;[35-45];> 150;oui;oui;Panel Truck;18;non;Commercial;Highly Urban/ Urban;0;janvier;dev_vip;> 600
+655;M;[55-65];[50-75];oui;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+656;F;> 75;< 25;non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+657;M;[55-65];[25-50];oui;oui;Van;1;oui;Commercial;Highly Urban/ Urban;1;mai;dev_integral;< 300
+658;F;[65-75];< 25;oui;oui;z_SUV;6;non;Private;z_Highly Rural/ Rural;2;janvier;dev_integral;[300-450]
+659;F;[65-75];[125-150];non;non;Minivan;11;oui;Private;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+660;F;> 75;< 25;non;non;Pickup;4;non;Commercial;Highly Urban/ Urban;1;avril;dev_premium;[300-450]
+661;F;[25-35];[25-50];non;non;Pickup;14;oui;Commercial;z_Highly Rural/ Rural;4;mars;dev_integral;[300-450]
+662;M;> 75;< 25;non;non;Van;22;non;Private;z_Highly Rural/ Rural;2;mai;dev_vip;> 600
+663;M;[45-55];[50-75];oui;non;Minivan;16;non;Private;Highly Urban/ Urban;5;février;dev_premium;[450-600]
+664;M;[45-55];[25-50];non;non;Sports Car;6;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+665;M;[35-45];[100-125];oui;oui;Pickup;18;oui;Commercial;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+666;M;> 75;< 25;oui;oui;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+667;M;< 15;[50-75];non;non;Minivan;12;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+668;F;[45-55];[25-50];non;non;Minivan;13;non;Commercial;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+669;F;< 15;[25-50];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+670;M;[15-25];[100-125];oui;oui;z_SUV;15;non;Private;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+671;F;[15-25];< 25;oui;non;z_SUV;8;non;Commercial;z_Highly Rural/ Rural;3;mai;dev_express;< 300
+672;M;[35-45];< 25;oui;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;1;février;dev_integral;< 300
+673;M;[65-75];[50-75];oui;non;Pickup;1;non;Private;z_Highly Rural/ Rural;1;avril;dev_express;< 300
+674;F;[45-55];[50-75];non;non;Pickup;6;non;Commercial;Highly Urban/ Urban;1;février;dev_integral;< 300
+675;M;> 75;< 25;non;non;Minivan;1;oui;Commercial;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+676;M;> 75;[75-100];oui;non;Pickup;16;non;Commercial;Highly Urban/ Urban;4;mars;dev_integral;[300-450]
+677;F;[65-75];[50-75];oui;non;z_SUV;11;non;Commercial;Highly Urban/ Urban;5;mai;dev_integral;< 300
+678;F;[25-35];[50-75];non;non;Minivan;15;oui;Private;Highly Urban/ Urban;5;janvier;dev_integral;< 300
+679;M;[65-75];[50-75];oui;oui;z_SUV;1;non;Commercial;Highly Urban/ Urban;3;mars;dev_integral;< 300
+680;M;[25-35];[50-75];non;non;Minivan;1;oui;Private;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+681;F;< 15;[25-50];oui;oui;Van;5;non;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+682;M;[15-25];[125-150];non;non;Van;5;oui;Commercial;Highly Urban/ Urban;0;mai;dev_premium;[300-450]
+683;M;[65-75];[25-50];non;non;z_SUV;8;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+684;F;[65-75];[25-50];non;non;Minivan;1;oui;Private;Highly Urban/ Urban;1;janvier;dev_premium;[450-600]
+685;F;[35-45];[25-50];oui;non;z_SUV;6;non;Commercial;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+686;F;< 15;[75-100];non;non;z_SUV;11;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+687;M;[65-75];[100-125];non;non;Minivan;1;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+688;M;[65-75];[75-100];non;non;Van;8;oui;Commercial;z_Highly Rural/ Rural;2;février;dev_integral;[300-450]
+689;M;> 75;[50-75];non;non;Minivan;3;non;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+690;F;[25-35];< 25;oui;non;Pickup;5;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+691;M;[45-55];[25-50];non;non;Minivan;15;non;Private;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+692;M;> 75;< 25;non;non;Minivan;20;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+693;F;< 15;[50-75];non;non;Pickup;8;oui;Commercial;Highly Urban/ Urban;4;mars;dev_premium;[450-600]
+694;F;[35-45];[75-100];non;non;z_SUV;8;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+695;F;[45-55];[25-50];non;non;Pickup;1;oui;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+696;M;< 15;< 25;non;non;Minivan;12;non;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+697;M;[45-55];[50-75];non;non;Minivan;11;oui;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+698;M;[35-45];[125-150];non;non;Minivan;10;non;Private;z_Highly Rural/ Rural;1;mai;dev_express;< 300
+699;M;[45-55];[50-75];oui;non;z_SUV;12;non;Private;Highly Urban/ Urban;1;février;dev_integral;< 300
+700;F;[55-65];< 25;oui;non;Minivan;1;non;Private;z_Highly Rural/ Rural;6;mars;dev_express;< 300
+701;M;[55-65];[25-50];oui;oui;z_SUV;5;non;Private;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+702;F;[35-45];[50-75];non;non;Minivan;9;oui;Commercial;z_Highly Rural/ Rural;0;février;dev_integral;[300-450]
+703;M;> 75;[25-50];non;non;Panel Truck;5;non;Commercial;Highly Urban/ Urban;5;janvier;dev_vip;> 600
+704;F;[55-65];< 25;non;non;Minivan;7;non;Private;Highly Urban/ Urban;3;mai;dev_premium;[450-600]
+705;M;[65-75];[25-50];oui;non;z_SUV;5;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+706;F;< 15;< 25;non;non;Pickup;3;oui;Commercial;Highly Urban/ Urban;6;janvier;dev_express;< 300
+707;F;[65-75];[50-75];non;non;Minivan;1;non;Commercial;z_Highly Rural/ Rural;1;mars;dev_express;< 300
+708;F;[15-25];[50-75];oui;oui;Van;;oui;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+709;F;< 15;< 25;non;non;Minivan;1;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+710;F;[45-55];[25-50];non;non;Van;21;oui;Commercial;Highly Urban/ Urban;3;mai;dev_integral;[300-450]
+711;M;[65-75];[25-50];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+712;F;[15-25];[50-75];non;non;Sports Car;10;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+713;M;[65-75];< 25;non;non;Panel Truck;;oui;Commercial;Highly Urban/ Urban;1;février;dev_integral;< 300
+714;F;> 75;< 25;oui;oui;z_SUV;7;non;Commercial;Highly Urban/ Urban;0;mars;dev_premium;[300-450]
+715;F;[65-75];[125-150];non;non;Van;1;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+716;M;> 75;< 25;oui;oui;Sports Car;1;non;Commercial;Highly Urban/ Urban;2;février;dev_integral;[300-450]
+717;M;< 15;[75-100];non;non;Pickup;17;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+718;M;[15-25];[50-75];non;non;Panel Truck;9;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+719;F;[15-25];[75-100];oui;non;z_SUV;15;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+720;M;[25-35];[100-125];non;non;Sports Car;11;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+721;M;[55-65];< 25;non;non;z_SUV;9;non;Private;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+722;M;[65-75];< 25;oui;non;z_SUV;5;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+723;M;[45-55];< 25;oui;non;Minivan;1;oui;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+724;M;[55-65];< 25;oui;non;Minivan;11;oui;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+725;F;[15-25];[50-75];non;non;Van;11;non;Commercial;Highly Urban/ Urban;8;avril;dev_integral;[300-450]
+726;M;> 75;< 25;non;non;Van;9;non;Private;Highly Urban/ Urban;0;mai;dev_integral;< 300
+727;M;< 15;[75-100];oui;oui;z_SUV;6;non;Commercial;Highly Urban/ Urban;4;avril;dev_express;< 300
+728;F;< 15;[50-75];non;non;Pickup;17;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+729;F;[25-35];[50-75];non;non;Sports Car;9;non;Commercial;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+730;M;[65-75];[25-50];oui;non;Pickup;3;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+731;M;[65-75];< 25;oui;non;Minivan;7;oui;Private;Highly Urban/ Urban;4;mars;dev_integral;[300-450]
+732;M;[35-45];[50-75];non;non;z_SUV;14;non;Private;Highly Urban/ Urban;4;février;dev_integral;< 300
+733;F;[55-65];[25-50];oui;non;Minivan;;non;Private;Highly Urban/ Urban;0;mars;dev_premium;[300-450]
+734;F;[35-45];[100-125];non;non;Van;10;non;Commercial;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+735;M;[15-25];< 25;non;non;Minivan;1;oui;Private;Highly Urban/ Urban;1;mars;dev_integral;< 300
+736;M;[15-25];[50-75];non;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+737;F;< 15;< 25;oui;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;6;février;dev_express;< 300
+738;M;[55-65];[75-100];oui;oui;Minivan;6;oui;Commercial;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+739;F;[65-75];[50-75];non;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;4;avril;dev_express;< 300
+740;M;[15-25];[25-50];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+741;F;[55-65];[125-150];oui;non;z_SUV;14;non;Private;Highly Urban/ Urban;3;mai;dev_integral;< 300
+742;M;[15-25];[75-100];non;non;Van;9;oui;Private;Highly Urban/ Urban;2;mai;dev_premium;[450-600]
+743;M;[65-75];< 25;oui;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+744;M;[55-65];[50-75];oui;oui;Van;10;non;Private;Highly Urban/ Urban;3;février;dev_integral;[300-450]
+745;M;[65-75];[75-100];oui;non;Minivan;9;non;Commercial;z_Highly Rural/ Rural;3;mars;dev_express;< 300
+746;M;[45-55];[25-50];non;non;Minivan;1;oui;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+747;M;[55-65];[50-75];non;non;Minivan;8;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+748;M;[65-75];< 25;oui;non;z_SUV;12;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+749;M;[65-75];[100-125];oui;non;Minivan;14;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+750;F;[65-75];[75-100];non;non;z_SUV;5;non;Private;Highly Urban/ Urban;5;mars;dev_express;< 300
+751;M;[25-35];[100-125];non;non;z_SUV;8;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+752;M;< 15;< 25;oui;oui;Pickup;9;non;Commercial;Highly Urban/ Urban;3;mai;dev_integral;[300-450]
+753;M;[65-75];[25-50];non;non;z_SUV;3;non;Private;Highly Urban/ Urban;4;avril;dev_express;< 300
+754;F;[25-35];[50-75];non;non;Minivan;20;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+755;M;[55-65];> 150;non;non;Panel Truck;9;oui;Commercial;Highly Urban/ Urban;1;mars;dev_integral;< 300
+756;M;[35-45];[25-50];non;non;Pickup;6;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+757;F;[45-55];[25-50];oui;non;Pickup;1;non;Commercial;Highly Urban/ Urban;7;avril;dev_express;< 300
+758;M;[55-65];< 25;non;non;Sports Car;8;non;Private;Highly Urban/ Urban;1;avril;dev_premium;[300-450]
+759;F;[25-35];[50-75];non;non;Sports Car;10;oui;Private;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+760;M;[15-25];[100-125];oui;non;Minivan;16;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;< 300
+761;F;[35-45];[100-125];non;non;z_SUV;11;non;Private;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+762;F;[45-55];[75-100];non;non;z_SUV;17;oui;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+763;M;< 15;< 25;oui;oui;Pickup;1;oui;Commercial;Highly Urban/ Urban;2;avril;dev_express;< 300
+764;F;[45-55];[25-50];non;non;Minivan;8;oui;Private;Highly Urban/ Urban;0;mai;dev_premium;[300-450]
+765;M;< 15;[75-100];oui;non;Pickup;10;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+766;M;> 75;[75-100];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+767;F;[25-35];[125-150];non;non;Pickup;10;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+768;M;[65-75];< 25;oui;oui;Sports Car;1;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+769;F;[55-65];< 25;oui;non;Pickup;7;non;Commercial;z_Highly Rural/ Rural;1;février;dev_integral;[300-450]
+770;M;[45-55];[75-100];non;non;Minivan;14;oui;Private;Highly Urban/ Urban;2;avril;dev_integral;[300-450]
+771;M;[15-25];[75-100];non;non;z_SUV;5;non;Private;Highly Urban/ Urban;4;mai;dev_integral;[300-450]
+772;M;[35-45];[50-75];non;non;Minivan;1;oui;Commercial;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+773;F;[45-55];[50-75];non;non;Minivan;9;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+774;M;[65-75];[50-75];non;non;Pickup;16;non;Commercial;Highly Urban/ Urban;3;janvier;dev_express;< 300
+775;M;[25-35];[50-75];non;non;Van;9;oui;Commercial;Highly Urban/ Urban;2;avril;dev_integral;< 300
+776;M;[65-75];[25-50];non;non;z_SUV;16;non;Private;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+777;M;[55-65];[50-75];non;non;Pickup;19;non;Commercial;Highly Urban/ Urban;0;mai;dev_integral;< 300
+778;M;[65-75];[50-75];non;non;Pickup;4;non;Commercial;Highly Urban/ Urban;4;février;dev_integral;[300-450]
+779;F;[25-35];[75-100];non;non;Panel Truck;17;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+780;M;[65-75];< 25;oui;non;Panel Truck;12;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+781;F;[35-45];[100-125];oui;non;z_SUV;1;non;Commercial;z_Highly Rural/ Rural;1;janvier;dev_integral;< 300
+782;M;[55-65];[50-75];non;non;Minivan;16;non;Private;z_Highly Rural/ Rural;1;janvier;dev_premium;[450-600]
+783;F;< 15;[75-100];oui;oui;z_SUV;22;non;Private;Highly Urban/ Urban;3;janvier;dev_integral;< 300
+784;M;[45-55];> 150;non;non;Minivan;12;oui;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+785;M;[45-55];> 150;non;non;Minivan;15;non;Private;Highly Urban/ Urban;1;janvier;dev_premium;[300-450]
+786;M;[55-65];< 25;non;non;Pickup;11;non;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+787;F;[55-65];[50-75];non;non;Minivan;1;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_premium;[300-450]
+788;M;[55-65];[75-100];non;non;Pickup;15;oui;Private;Highly Urban/ Urban;3;mars;dev_integral;< 300
+789;M;> 75;[50-75];non;non;Panel Truck;16;oui;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+790;F;> 75;[50-75];non;non;Minivan;1;oui;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+791;F;> 75;< 25;oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;4;mars;dev_integral;[300-450]
+792;M;[65-75];[50-75];non;non;Pickup;17;non;Commercial;Highly Urban/ Urban;1;mars;dev_integral;< 300
+793;M;> 75;[25-50];oui;non;Van;13;oui;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+794;M;[55-65];< 25;non;non;z_SUV;7;non;Commercial;Highly Urban/ Urban;1;février;dev_express;< 300
+795;F;[65-75];< 25;oui;oui;z_SUV;10;non;Private;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+796;M;[65-75];[75-100];non;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+797;M;[55-65];[50-75];non;non;Minivan;12;oui;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+798;F;[35-45];< 25;non;non;z_SUV;9;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+799;F;[55-65];[125-150];oui;non;Minivan;10;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+800;M;> 75;[75-100];non;non;Pickup;13;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+801;F;> 75;[25-50];non;non;Minivan;9;oui;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+802;F;[55-65];< 25;oui;non;Minivan;1;oui;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+803;M;[55-65];< 25;oui;non;Sports Car;8;non;Commercial;Highly Urban/ Urban;7;mai;dev_integral;< 300
+804;F;[25-35];< 25;non;non;Van;1;non;Private;Highly Urban/ Urban;4;mars;dev_express;< 300
+805;F;< 15;< 25;non;non;Pickup;1;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+806;M;< 15;< 25;oui;non;z_SUV;10;non;Commercial;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+807;F;[65-75];< 25;non;non;z_SUV;16;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+808;M;[55-65];[25-50];non;non;Panel Truck;11;oui;Commercial;Highly Urban/ Urban;6;mai;dev_express;< 300
+809;M;[65-75];> 150;oui;non;z_SUV;18;non;Private;Highly Urban/ Urban;2;avril;dev_express;< 300
+810;M;[65-75];< 25;oui;non;z_SUV;5;non;Commercial;z_Highly Rural/ Rural;2;janvier;dev_integral;[300-450]
+811;M;[45-55];[50-75];non;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+812;F;[45-55];[50-75];non;non;Panel Truck;15;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+813;F;> 75;[25-50];oui;non;Minivan;3;non;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+814;M;[55-65];< 25;oui;non;Pickup;7;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+815;M;[65-75];[50-75];oui;non;z_SUV;5;non;Private;z_Highly Rural/ Rural;4;janvier;dev_express;< 300
+816;F;[55-65];[50-75];non;non;Minivan;22;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+817;M;[25-35];[75-100];non;non;Pickup;21;non;Commercial;Highly Urban/ Urban;1;mars;dev_premium;[300-450]
+818;M;< 15;[75-100];oui;oui;Van;14;oui;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+819;F;[55-65];[25-50];oui;oui;Pickup;1;non;Private;Highly Urban/ Urban;5;février;dev_integral;< 300
+820;M;> 75;< 25;oui;non;Minivan;10;oui;Commercial;Highly Urban/ Urban;6;avril;dev_integral;[300-450]
+821;F;[65-75];[75-100];non;non;Van;11;non;Private;Highly Urban/ Urban;4;mars;dev_express;< 300
+822;F;[65-75];[25-50];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+823;F;[15-25];< 25;oui;non;z_SUV;7;non;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+824;M;[65-75];[125-150];oui;non;Minivan;15;non;Private;Highly Urban/ Urban;8;janvier;dev_integral;[300-450]
+825;M;> 75;< 25;oui;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;9;avril;dev_integral;[300-450]
+826;M;[65-75];[100-125];non;non;z_SUV;17;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+827;F;[55-65];> 150;non;non;Van;8;non;Commercial;Highly Urban/ Urban;4;janvier;dev_premium;[300-450]
+828;F;< 15;< 25;non;non;Minivan;15;non;Private;Highly Urban/ Urban;3;février;dev_express;< 300
+829;F;[55-65];[75-100];non;non;Minivan;1;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+830;M;[55-65];[25-50];non;non;Van;10;oui;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+831;F;[15-25];[25-50];non;non;Minivan;1;oui;Private;Highly Urban/ Urban;1;février;dev_integral;< 300
+832;M;> 75;[50-75];oui;oui;z_SUV;7;non;Private;Highly Urban/ Urban;2;avril;dev_integral;< 300
+833;F;[35-45];[25-50];non;non;Pickup;;non;Commercial;z_Highly Rural/ Rural;3;mai;dev_express;< 300
+834;F;[15-25];< 25;non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_integral;[300-450]
+835;M;[35-45];< 25;non;non;z_SUV;7;non;Private;Highly Urban/ Urban;3;mai;dev_express;< 300
+836;M;[15-25];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;4;mai;dev_premium;[300-450]
+837;F;[55-65];[75-100];non;non;Van;17;oui;Commercial;Highly Urban/ Urban;4;avril;dev_express;< 300
+838;M;[65-75];[75-100];non;non;z_SUV;18;non;Private;Highly Urban/ Urban;7;janvier;dev_integral;< 300
+839;M;[15-25];> 150;non;non;Pickup;9;non;Private;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+840;F;[55-65];[50-75];non;non;Van;1;oui;Commercial;Highly Urban/ Urban;4;mai;dev_premium;[300-450]
+841;F;[45-55];< 25;oui;oui;z_SUV;1;non;Private;Highly Urban/ Urban;0;mars;dev_vip;> 600
+842;F;< 15;[75-100];non;non;Panel Truck;10;oui;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+843;M;[15-25];< 25;non;non;Minivan;4;non;Private;z_Highly Rural/ Rural;4;mai;dev_integral;[300-450]
+844;F;> 75;< 25;oui;non;Panel Truck;6;oui;Commercial;Highly Urban/ Urban;4;mai;dev_integral;< 300
+845;F;[25-35];[100-125];oui;oui;Pickup;7;non;Commercial;z_Highly Rural/ Rural;0;mars;dev_integral;< 300
+846;F;[35-45];> 150;non;non;Panel Truck;12;oui;Commercial;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+847;M;[55-65];[25-50];non;non;Van;6;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+848;F;> 75;[125-150];oui;non;z_SUV;13;non;Private;Highly Urban/ Urban;0;mai;dev_premium;[450-600]
+849;M;[55-65];[25-50];non;non;Pickup;10;non;Commercial;Highly Urban/ Urban;2;avril;dev_premium;[300-450]
+850;F;[25-35];[25-50];non;non;z_SUV;13;non;Private;Highly Urban/ Urban;6;mars;dev_premium;[450-600]
+851;F;[35-45];> 150;non;non;Minivan;17;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+852;F;[65-75];[125-150];non;non;Pickup;9;non;Commercial;Highly Urban/ Urban;0;janvier;dev_premium;[300-450]
+853;F;[15-25];< 25;non;non;z_SUV;9;non;Commercial;Highly Urban/ Urban;4;mars;dev_vip;> 600
+854;M;> 75;[50-75];non;non;Sports Car;12;non;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+855;F;> 75;< 25;oui;non;Sports Car;6;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+856;F;> 75;[25-50];non;non;z_SUV;;non;Private;Highly Urban/ Urban;4;février;dev_premium;[450-600]
+857;M;> 75;[50-75];oui;non;Panel Truck;8;oui;Commercial;Highly Urban/ Urban;2;avril;dev_integral;[300-450]
+858;M;[35-45];[100-125];oui;oui;z_SUV;6;non;Private;z_Highly Rural/ Rural;4;janvier;dev_premium;[300-450]
+859;F;[35-45];> 150;non;non;Panel Truck;12;non;Commercial;Highly Urban/ Urban;5;janvier;dev_express;< 300
+860;M;[55-65];[125-150];non;non;Van;13;non;Commercial;Highly Urban/ Urban;4;février;dev_integral;[300-450]
+861;F;[55-65];[50-75];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+862;F;[55-65];[25-50];non;non;Minivan;15;non;Private;z_Highly Rural/ Rural;5;février;dev_integral;[300-450]
+863;M;< 15;< 25;oui;oui;z_SUV;5;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+864;M;[35-45];< 25;non;non;Pickup;1;non;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+865;F;< 15;> 150;non;non;Minivan;16;oui;Private;Highly Urban/ Urban;1;février;dev_premium;[300-450]
+866;M;> 75;[50-75];oui;non;Pickup;9;oui;Private;Highly Urban/ Urban;3;janvier;dev_integral;[300-450]
+867;M;[45-55];[50-75];non;non;z_SUV;8;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+868;F;[55-65];[75-100];non;non;z_SUV;;non;Private;Highly Urban/ Urban;3;janvier;dev_premium;[450-600]
+869;M;[45-55];[50-75];non;non;Van;7;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+870;M;> 75;< 25;non;non;Pickup;7;non;Commercial;Highly Urban/ Urban;4;mars;dev_integral;[300-450]
+871;F;> 75;[25-50];oui;non;Minivan;10;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+872;M;[55-65];< 25;non;non;z_SUV;7;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;< 300
+873;M;[65-75];[75-100];non;non;z_SUV;13;oui;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+874;F;< 15;[50-75];non;non;z_SUV;12;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+875;M;> 75;[25-50];non;non;Pickup;9;oui;Commercial;Highly Urban/ Urban;6;avril;dev_premium;[300-450]
+876;F;[45-55];[75-100];non;non;Minivan;7;non;Private;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+877;M;[55-65];[125-150];non;non;Minivan;22;non;Private;Highly Urban/ Urban;7;mars;dev_integral;[300-450]
+878;M;[45-55];< 25;non;non;Van;1;oui;Private;Highly Urban/ Urban;3;janvier;dev_integral;[300-450]
+879;F;> 75;[50-75];oui;non;Sports Car;;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+880;M;> 75;[50-75];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+881;M;[45-55];[25-50];oui;oui;Sports Car;1;non;Private;z_Highly Rural/ Rural;2;avril;dev_express;< 300
+882;M;[45-55];[75-100];non;non;Pickup;9;oui;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+883;M;[55-65];[25-50];non;non;Minivan;10;non;Commercial;Highly Urban/ Urban;0;janvier;dev_express;< 300
+884;F;[45-55];[75-100];non;non;Minivan;9;oui;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+885;F;[35-45];[125-150];non;non;Minivan;11;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+886;F;[65-75];[50-75];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;1;avril;dev_express;< 300
+887;F;> 75;< 25;non;non;Pickup;15;non;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+888;M;[55-65];< 25;non;non;Pickup;7;non;Commercial;Highly Urban/ Urban;4;février;dev_premium;[450-600]
+889;F;[65-75];< 25;non;non;Minivan;1;oui;Private;z_Highly Rural/ Rural;0;février;dev_integral;< 300
+890;M;[65-75];< 25;oui;non;Pickup;8;non;Private;z_Highly Rural/ Rural;0;février;dev_express;< 300
+891;M;> 75;[75-100];non;non;Pickup;9;non;Private;Highly Urban/ Urban;1;mars;dev_express;< 300
+892;F;[35-45];< 25;non;non;z_SUV;7;non;Private;z_Highly Rural/ Rural;2;janvier;dev_express;< 300
+893;M;[55-65];[50-75];non;non;Minivan;14;non;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+894;M;[25-35];[25-50];non;non;z_SUV;1;oui;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+895;F;> 75;[25-50];non;non;Panel Truck;15;non;Commercial;Highly Urban/ Urban;1;janvier;dev_express;< 300
+896;F;[55-65];[100-125];non;non;Minivan;20;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+897;F;< 15;[75-100];oui;non;Panel Truck;13;non;Commercial;Highly Urban/ Urban;0;février;dev_premium;[450-600]
+898;M;> 75;[25-50];oui;non;Sports Car;9;non;Private;z_Highly Rural/ Rural;4;janvier;dev_integral;[300-450]
+899;F;[55-65];[100-125];non;non;Minivan;19;oui;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+900;M;[65-75];< 25;oui;non;Sports Car;13;non;Private;Highly Urban/ Urban;0;mai;dev_premium;[300-450]
+901;M;[35-45];< 25;non;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;4;janvier;dev_integral;< 300
+902;F;[45-55];< 25;oui;non;Sports Car;0;oui;Private;Highly Urban/ Urban;10;avril;dev_express;< 300
+903;F;[25-35];[75-100];non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+904;F;< 15;[25-50];oui;oui;Minivan;10;oui;Commercial;Highly Urban/ Urban;0;avril;dev_integral;< 300
+905;M;[25-35];[75-100];non;non;z_SUV;1;non;Private;Highly Urban/ Urban;4;février;dev_express;< 300
+906;F;[45-55];[25-50];non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;0;janvier;dev_vip;> 600
+907;M;[35-45];[75-100];non;non;Minivan;11;oui;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+908;F;[45-55];< 25;oui;non;Pickup;6;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+909;M;[25-35];< 25;oui;oui;z_SUV;8;non;Commercial;z_Highly Rural/ Rural;0;février;dev_express;< 300
+910;F;[25-35];[100-125];non;non;Van;;oui;Commercial;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+911;F;[25-35];[50-75];oui;oui;Pickup;11;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+912;M;[65-75];[25-50];oui;non;Pickup;1;non;Commercial;Highly Urban/ Urban;2;février;dev_express;< 300
+913;F;[15-25];[50-75];oui;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;0;avril;dev_premium;[450-600]
+914;F;[45-55];[50-75];non;non;z_SUV;8;non;Commercial;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+915;F;[25-35];[75-100];non;non;Sports Car;17;non;Private;Highly Urban/ Urban;1;mai;dev_express;< 300
+916;M;[65-75];< 25;oui;non;z_SUV;8;non;Commercial;Highly Urban/ Urban;3;janvier;dev_express;< 300
+917;F;> 75;< 25;non;non;Pickup;1;oui;Commercial;z_Highly Rural/ Rural;2;février;dev_integral;< 300
+918;F;[35-45];[100-125];non;non;Sports Car;6;non;Commercial;Highly Urban/ Urban;1;février;dev_integral;[300-450]
+919;M;[45-55];[50-75];oui;non;Minivan;9;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+920;F;> 75;[50-75];oui;oui;Sports Car;14;non;Private;Highly Urban/ Urban;4;mai;dev_integral;[300-450]
+921;M;[65-75];[50-75];non;non;z_SUV;11;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+922;M;> 75;[50-75];oui;oui;z_SUV;6;non;Private;Highly Urban/ Urban;0;février;dev_integral;< 300
+923;F;[55-65];< 25;oui;oui;Minivan;;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+924;F;[65-75];> 150;oui;non;Panel Truck;7;oui;Commercial;Highly Urban/ Urban;0;février;dev_premium;[300-450]
+925;F;[15-25];[25-50];oui;oui;Minivan;6;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+926;M;< 15;[50-75];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;1;mars;dev_premium;[450-600]
+927;F;[45-55];< 25;non;non;z_SUV;7;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+928;F;[55-65];< 25;oui;non;Sports Car;4;non;Private;Highly Urban/ Urban;6;mars;dev_integral;[300-450]
+929;M;< 15;< 25;oui;non;z_SUV;10;non;Commercial;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+930;M;> 75;[75-100];non;non;Minivan;7;oui;Commercial;Highly Urban/ Urban;11;avril;dev_express;< 300
+931;M;[45-55];[25-50];non;non;Van;12;non;Commercial;Highly Urban/ Urban;1;avril;dev_premium;[300-450]
+932;M;[45-55];< 25;non;non;Panel Truck;1;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_express;< 300
+933;M;< 15;[50-75];non;non;Pickup;10;oui;Commercial;z_Highly Rural/ Rural;2;mars;dev_integral;< 300
+934;F;[45-55];[75-100];non;non;Panel Truck;6;oui;Commercial;Highly Urban/ Urban;0;février;dev_integral;< 300
+935;F;[65-75];> 150;non;non;Minivan;;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+936;M;[55-65];[75-100];oui;oui;Minivan;1;non;Commercial;Highly Urban/ Urban;4;février;dev_express;< 300
+937;M;> 75;[50-75];non;non;Minivan;10;non;Commercial;Highly Urban/ Urban;4;février;dev_premium;[300-450]
+938;F;[65-75];[50-75];non;non;Minivan;;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+939;M;[25-35];< 25;oui;non;Minivan;;oui;Private;Highly Urban/ Urban;0;mai;dev_integral;< 300
+940;M;[65-75];[25-50];non;non;Van;12;oui;Private;Highly Urban/ Urban;1;janvier;dev_premium;[450-600]
+941;M;[45-55];[100-125];non;non;z_SUV;1;non;Commercial;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+942;F;[15-25];[100-125];oui;oui;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;3;février;dev_premium;[300-450]
+943;M;[55-65];[25-50];oui;non;z_SUV;8;non;Private;Highly Urban/ Urban;0;janvier;dev_express;< 300
+944;F;[55-65];> 150;non;non;Pickup;;non;Commercial;Highly Urban/ Urban;0;mars;dev_express;< 300
+945;F;> 75;[50-75];non;non;Sports Car;8;non;Private;Highly Urban/ Urban;4;avril;dev_express;< 300
+946;F;< 15;[50-75];non;non;z_SUV;16;non;Private;Highly Urban/ Urban;6;janvier;dev_integral;[300-450]
+947;F;[15-25];< 25;oui;non;Minivan;8;oui;Private;Highly Urban/ Urban;1;mars;dev_express;< 300
+948;M;[25-35];[50-75];non;non;Minivan;10;non;Private;Highly Urban/ Urban;0;avril;dev_premium;[300-450]
+949;F;[65-75];[125-150];non;non;Panel Truck;13;non;Commercial;Highly Urban/ Urban;3;janvier;dev_integral;[300-450]
+950;M;[45-55];[100-125];non;non;Minivan;19;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+951;M;[65-75];[100-125];oui;oui;z_SUV;11;non;Private;Highly Urban/ Urban;1;mai;dev_premium;[300-450]
+952;F;> 75;[25-50];oui;oui;z_SUV;19;non;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+953;M;[35-45];< 25;non;non;Sports Car;5;non;Private;z_Highly Rural/ Rural;2;mai;dev_integral;[300-450]
+954;M;> 75;> 150;non;non;Minivan;19;non;Private;Highly Urban/ Urban;2;février;dev_integral;[300-450]
+955;M;< 15;< 25;oui;non;z_SUV;8;non;Private;Highly Urban/ Urban;2;janvier;dev_express;< 300
+956;M;[35-45];< 25;oui;oui;z_SUV;11;non;Private;z_Highly Rural/ Rural;4;avril;dev_vip;[450-600]
+957;F;[55-65];< 25;non;non;z_SUV;12;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+958;M;[65-75];[25-50];oui;oui;Pickup;7;oui;Commercial;Highly Urban/ Urban;0;février;dev_premium;[300-450]
+959;F;[45-55];[50-75];non;non;Panel Truck;15;oui;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+960;M;[15-25];< 25;oui;non;Sports Car;1;non;Private;z_Highly Rural/ Rural;0;avril;dev_premium;[450-600]
+961;M;[55-65];< 25;non;non;Minivan;8;oui;Commercial;Highly Urban/ Urban;2;février;dev_premium;[300-450]
+962;F;[65-75];[25-50];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;6;février;dev_premium;[300-450]
+963;M;[65-75];[100-125];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;1;mai;dev_premium;[300-450]
+964;F;[55-65];> 150;oui;oui;Minivan;20;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+965;F;[65-75];[50-75];non;non;Minivan;;non;Private;Highly Urban/ Urban;5;janvier;dev_express;< 300
+966;F;[15-25];> 150;non;non;Panel Truck;12;non;Commercial;Highly Urban/ Urban;1;mai;dev_express;< 300
+967;M;[65-75];> 150;non;non;z_SUV;16;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+968;M;[15-25];> 150;non;non;Sports Car;;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+969;M;[45-55];[25-50];oui;non;Sports Car;1;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+970;F;[45-55];[50-75];non;non;Minivan;22;non;Private;Highly Urban/ Urban;1;février;dev_express;< 300
+971;M;[55-65];[25-50];non;non;Minivan;1;oui;Private;z_Highly Rural/ Rural;0;avril;dev_premium;[300-450]
+972;F;[45-55];[25-50];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;4;février;dev_premium;[450-600]
+973;M;[45-55];< 25;non;non;z_SUV;13;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+974;F;[45-55];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+975;F;> 75;[75-100];non;non;Van;18;non;Commercial;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+976;M;[15-25];[25-50];oui;non;Pickup;1;oui;Private;Highly Urban/ Urban;3;avril;dev_express;< 300
+977;F;> 75;[75-100];non;non;Minivan;17;non;Private;Highly Urban/ Urban;2;février;dev_express;< 300
+978;F;[55-65];[25-50];non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;1;mai;dev_integral;[300-450]
+979;F;[55-65];< 25;oui;oui;Pickup;1;oui;Private;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+980;F;[35-45];[25-50];non;non;Minivan;7;non;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+981;F;[65-75];[50-75];non;non;Minivan;13;non;Private;Highly Urban/ Urban;5;mars;dev_integral;[300-450]
+982;M;> 75;> 150;non;non;Minivan;16;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+983;F;[65-75];[50-75];non;non;Sports Car;10;non;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+984;F;< 15;[50-75];oui;non;Pickup;21;non;Private;Highly Urban/ Urban;3;février;dev_integral;[300-450]
+985;M;[55-65];[100-125];oui;non;Panel Truck;23;non;Commercial;Highly Urban/ Urban;1;mars;dev_express;< 300
+986;F;[55-65];[50-75];non;non;Panel Truck;8;non;Commercial;Highly Urban/ Urban;2;mars;dev_premium;[300-450]
+987;M;< 15;[75-100];non;non;Pickup;1;non;Commercial;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+988;M;[35-45];[50-75];non;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;3;mars;dev_express;< 300
+989;M;[55-65];[125-150];non;non;Minivan;17;non;Private;Highly Urban/ Urban;6;mars;dev_express;< 300
+990;F;[35-45];< 25;oui;non;Pickup;1;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_premium;[300-450]
+991;M;< 15;[25-50];non;non;Sports Car;9;non;Commercial;Highly Urban/ Urban;5;janvier;dev_integral;[300-450]
+992;F;< 15;[25-50];non;non;Pickup;11;oui;Private;Highly Urban/ Urban;3;janvier;dev_integral;< 300
+993;F;[55-65];< 25;non;non;Minivan;1;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+994;F;< 15;[25-50];non;non;Sports Car;1;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+995;M;> 75;[25-50];non;non;Sports Car;1;non;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+996;F;[55-65];[75-100];non;non;Sports Car;15;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+997;M;[25-35];< 25;oui;non;z_SUV;8;non;Private;z_Highly Rural/ Rural;1;avril;dev_integral;[300-450]
+998;M;[65-75];[50-75];non;non;Van;1;oui;Commercial;Highly Urban/ Urban;2;avril;dev_integral;[300-450]
+999;M;[65-75];[100-125];non;non;Pickup;16;non;Commercial;Highly Urban/ Urban;0;mai;dev_express;< 300
+1000;M;[15-25];[50-75];non;non;z_SUV;11;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+1001;F;> 75;< 25;non;non;z_SUV;4;non;Private;z_Highly Rural/ Rural;2;février;dev_integral;[300-450]
+1002;F;[55-65];[50-75];non;non;z_SUV;6;oui;Private;Highly Urban/ Urban;7;mars;dev_express;< 300
+1003;F;> 75;< 25;non;non;z_SUV;5;non;Private;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+1004;M;[35-45];[25-50];non;non;Minivan;14;non;Private;Highly Urban/ Urban;2;mai;dev_integral;[300-450]
+1005;F;[35-45];< 25;non;non;z_SUV;;non;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+1006;F;[15-25];< 25;non;non;Minivan;4;oui;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+1007;M;[45-55];< 25;non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_express;< 300
+1008;F;[45-55];< 25;oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;3;février;dev_express;< 300
+1009;M;[55-65];[50-75];oui;oui;Panel Truck;12;non;Commercial;Highly Urban/ Urban;0;février;dev_express;< 300
+1010;F;[55-65];[25-50];oui;non;z_SUV;12;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+1011;F;[55-65];[50-75];non;non;z_SUV;10;non;Private;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+1012;M;[25-35];[25-50];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+1013;F;[65-75];[25-50];oui;non;Pickup;1;non;Private;Highly Urban/ Urban;10;mars;dev_express;< 300
+1014;M;[15-25];[25-50];non;non;Pickup;1;oui;Commercial;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+1015;M;[65-75];[125-150];oui;non;Minivan;1;oui;Private;Highly Urban/ Urban;0;mai;dev_express;< 300
+1016;M;[55-65];[50-75];oui;oui;Minivan;9;oui;Private;Highly Urban/ Urban;6;mai;dev_integral;< 300
+1017;M;> 75;[100-125];non;non;Minivan;18;oui;Private;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+1018;M;[35-45];[100-125];oui;oui;Minivan;14;oui;Private;Highly Urban/ Urban;0;mars;dev_premium;[450-600]
+1019;M;[55-65];< 25;non;non;Minivan;10;oui;Commercial;Highly Urban/ Urban;3;mars;dev_express;< 300
+1020;F;[15-25];[50-75];non;non;Minivan;18;oui;Private;Highly Urban/ Urban;5;janvier;dev_premium;[300-450]
+1021;F;[65-75];< 25;non;non;Sports Car;7;non;Private;z_Highly Rural/ Rural;3;mai;dev_premium;[450-600]
+1022;F;[45-55];[100-125];non;non;Sports Car;18;non;Private;Highly Urban/ Urban;0;janvier;dev_premium;[450-600]
+1023;M;[15-25];[25-50];non;non;Minivan;1;oui;Private;z_Highly Rural/ Rural;1;mai;dev_express;< 300
+1024;M;[55-65];[75-100];oui;non;z_SUV;;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+1025;M;[55-65];[25-50];oui;non;Sports Car;15;non;Private;Highly Urban/ Urban;0;mars;dev_premium;[450-600]
+1026;F;> 75;[100-125];non;non;z_SUV;15;non;Private;Highly Urban/ Urban;4;février;dev_express;< 300
+1027;F;[35-45];< 25;oui;non;z_SUV;6;non;Private;Highly Urban/ Urban;4;mai;dev_express;< 300
+1028;M;< 15;< 25;non;non;z_SUV;11;non;Commercial;Highly Urban/ Urban;1;janvier;dev_integral;[300-450]
+1029;M;[25-35];< 25;oui;oui;z_SUV;6;non;Private;Highly Urban/ Urban;2;mai;dev_integral;< 300
+1030;M;[35-45];[125-150];non;non;Van;1;oui;Private;Highly Urban/ Urban;4;avril;dev_express;< 300
+1031;F;[55-65];[50-75];oui;non;Pickup;11;oui;Commercial;Highly Urban/ Urban;5;février;dev_vip;> 600
+1032;M;[45-55];< 25;non;non;z_SUV;6;non;Private;z_Highly Rural/ Rural;7;février;dev_integral;< 300
+1033;F;[65-75];[75-100];oui;oui;Minivan;12;non;Private;Highly Urban/ Urban;6;janvier;dev_integral;[300-450]
+1034;M;[55-65];[50-75];oui;non;Sports Car;;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+1035;M;[45-55];< 25;oui;non;Pickup;1;non;Private;z_Highly Rural/ Rural;2;mai;dev_premium;[300-450]
+1036;M;[55-65];< 25;non;non;Van;14;non;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+1037;F;[35-45];< 25;non;non;Pickup;16;oui;Private;z_Highly Rural/ Rural;4;mars;dev_integral;[300-450]
+1038;F;[25-35];[25-50];oui;non;Minivan;;oui;Commercial;Highly Urban/ Urban;6;mai;dev_integral;[300-450]
+1039;M;[35-45];< 25;oui;non;Pickup;8;oui;Commercial;z_Highly Rural/ Rural;0;janvier;dev_integral;< 300
+1040;M;[65-75];< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+1041;F;[25-35];[25-50];oui;non;Minivan;1;non;Private;Highly Urban/ Urban;0;avril;dev_integral;< 300
+1042;M;> 75;[125-150];oui;non;z_SUV;15;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+1043;F;< 15;< 25;non;non;z_SUV;1;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+1044;M;[25-35];[50-75];non;non;Panel Truck;15;non;Commercial;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+1045;M;> 75;< 25;non;non;Minivan;14;non;Private;Highly Urban/ Urban;1;mars;dev_integral;< 300
+1046;M;[45-55];< 25;non;non;Sports Car;10;non;Commercial;Highly Urban/ Urban;6;février;dev_integral;< 300
+1047;M;[35-45];< 25;non;non;Sports Car;1;non;Private;z_Highly Rural/ Rural;0;février;dev_express;< 300
+1048;F;[35-45];< 25;non;non;Panel Truck;9;oui;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;< 300
+1049;M;[55-65];[50-75];non;non;Minivan;8;non;Private;Highly Urban/ Urban;4;avril;dev_integral;[300-450]
+1050;F;[35-45];< 25;non;non;z_SUV;9;non;Private;z_Highly Rural/ Rural;3;mai;dev_integral;[300-450]
+1051;M;[65-75];[75-100];non;non;Minivan;6;oui;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+1052;M;> 75;[50-75];non;non;z_SUV;8;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+1053;M;[15-25];< 25;oui;non;Minivan;1;oui;Private;Highly Urban/ Urban;3;mai;dev_integral;[300-450]
+1054;M;[25-35];< 25;non;non;Minivan;8;non;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+1055;F;[65-75];[25-50];non;non;Minivan;12;oui;Private;Highly Urban/ Urban;4;janvier;dev_premium;[450-600]
+1056;M;[65-75];[50-75];non;non;Panel Truck;1;non;Commercial;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+1057;M;> 75;[75-100];non;non;Pickup;17;non;Private;Highly Urban/ Urban;2;mars;dev_integral;[300-450]
+1058;F;[65-75];[50-75];oui;non;Minivan;1;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+1059;F;> 75;[50-75];oui;non;Minivan;5;non;Commercial;Highly Urban/ Urban;1;janvier;dev_premium;[450-600]
+1060;F;[15-25];[50-75];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+1061;F;[65-75];[50-75];non;non;Panel Truck;15;non;Commercial;Highly Urban/ Urban;7;février;dev_integral;< 300
+1062;M;[45-55];> 150;non;non;Panel Truck;15;non;Commercial;Highly Urban/ Urban;4;février;dev_express;< 300
+1063;F;[65-75];[25-50];non;non;Sports Car;12;non;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+1064;F;[15-25];[125-150];non;oui;z_SUV;;non;Private;Highly Urban/ Urban;4;mars;dev_express;< 300
+1065;M;[35-45];< 25;non;non;z_SUV;1;non;Private;z_Highly Rural/ Rural;0;avril;dev_express;< 300
+1066;F;[55-65];[50-75];non;non;Van;12;non;Private;Highly Urban/ Urban;4;janvier;dev_express;< 300
+1067;M;[55-65];< 25;non;non;Minivan;17;oui;Private;Highly Urban/ Urban;3;février;dev_integral;< 300
+1068;F;[65-75];[50-75];oui;non;Sports Car;1;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+1069;F;> 75;[25-50];non;non;Van;1;non;Commercial;Highly Urban/ Urban;7;février;dev_express;< 300
+1070;F;< 15;[125-150];non;non;Van;12;oui;Private;Highly Urban/ Urban;0;janvier;dev_integral;[300-450]
+1071;F;[45-55];[100-125];oui;oui;Pickup;1;oui;Commercial;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+1072;F;[45-55];[25-50];oui;oui;Van;1;non;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+1073;M;[45-55];[100-125];oui;oui;Van;11;oui;Commercial;z_Highly Rural/ Rural;0;mars;dev_integral;[300-450]
+1074;F;[35-45];> 150;non;non;Panel Truck;19;oui;Commercial;Highly Urban/ Urban;3;février;dev_integral;[300-450]
+1075;F;[65-75];[50-75];non;non;Pickup;12;non;Commercial;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+1076;F;[65-75];[25-50];oui;oui;Van;;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+1077;F;[45-55];[25-50];oui;oui;Pickup;7;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+1078;F;[55-65];[50-75];non;non;z_SUV;8;non;Private;Highly Urban/ Urban;3;mars;dev_integral;[300-450]
+1079;F;[45-55];[25-50];non;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;0;avril;dev_express;< 300
+1080;M;[15-25];[50-75];non;non;Minivan;10;oui;Private;Highly Urban/ Urban;5;avril;dev_express;< 300
+1081;F;[25-35];[125-150];non;non;Panel Truck;1;oui;Commercial;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+1082;M;[65-75];[100-125];oui;non;Minivan;15;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+1083;M;[35-45];[75-100];non;non;Sports Car;17;non;Private;Highly Urban/ Urban;3;mars;dev_express;< 300
+1084;M;[15-25];[50-75];non;non;z_SUV;18;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+1085;F;[15-25];[75-100];oui;non;Minivan;1;oui;Commercial;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+1086;F;[65-75];< 25;oui;oui;Sports Car;4;non;Private;Highly Urban/ Urban;4;avril;dev_express;< 300
+1087;F;[35-45];[25-50];oui;oui;Minivan;1;non;Private;Highly Urban/ Urban;5;février;dev_express;< 300
+1088;M;> 75;< 25;non;non;Van;8;oui;Commercial;Highly Urban/ Urban;2;janvier;dev_express;< 300
+1089;F;[15-25];[25-50];non;non;z_SUV;14;non;Private;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+1090;M;[45-55];[75-100];oui;non;Van;1;oui;Commercial;Highly Urban/ Urban;3;janvier;dev_express;< 300
+1091;M;[65-75];[25-50];non;non;Pickup;1;oui;Private;Highly Urban/ Urban;0;février;dev_integral;[300-450]
+1092;F;[55-65];< 25;oui;non;Sports Car;6;oui;Private;Highly Urban/ Urban;8;février;dev_integral;< 300
+1093;F;[45-55];[50-75];oui;non;Pickup;6;non;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+1094;F;[35-45];[75-100];non;non;Panel Truck;16;oui;Commercial;z_Highly Rural/ Rural;0;avril;dev_integral;[300-450]
+1095;F;< 15;< 25;oui;oui;Pickup;19;non;Commercial;Highly Urban/ Urban;0;mars;dev_integral;[300-450]
+1096;F;[55-65];[75-100];oui;oui;Minivan;13;non;Private;Highly Urban/ Urban;5;mars;dev_premium;[300-450]
+1097;F;[45-55];< 25;oui;non;Minivan;8;non;Private;Highly Urban/ Urban;4;janvier;dev_express;< 300
+1098;F;[55-65];[100-125];non;non;Panel Truck;;oui;Commercial;z_Highly Rural/ Rural;1;février;dev_integral;< 300
+1099;M;< 15;[100-125];non;non;Minivan;12;non;Commercial;Highly Urban/ Urban;4;janvier;dev_express;< 300
+1100;M;> 75;< 25;oui;oui;z_SUV;9;non;Commercial;Highly Urban/ Urban;3;février;dev_express;< 300
+1101;M;[35-45];> 150;oui;non;Van;13;non;Private;Highly Urban/ Urban;0;mars;dev_vip;> 600
+1102;F;[65-75];[25-50];non;non;Minivan;9;oui;Private;z_Highly Rural/ Rural;2;mars;dev_integral;[300-450]
+1103;M;[35-45];[100-125];non;non;Minivan;8;oui;Private;Highly Urban/ Urban;1;avril;dev_express;< 300
+1104;F;[55-65];[75-100];non;non;z_SUV;9;non;Commercial;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+1105;M;[15-25];[100-125];non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;0;avril;dev_express;< 300
+1106;M;< 15;[100-125];oui;oui;Panel Truck;16;non;Commercial;Highly Urban/ Urban;9;janvier;dev_express;< 300
+1107;M;< 15;[50-75];non;non;Panel Truck;12;oui;Commercial;Highly Urban/ Urban;0;mars;dev_premium;[300-450]
+1108;M;< 15;[25-50];oui;non;z_SUV;10;non;Private;Highly Urban/ Urban;0;janvier;dev_integral;< 300
+1109;F;[55-65];[75-100];non;non;Van;8;non;Commercial;Highly Urban/ Urban;8;février;dev_integral;[300-450]
+1110;M;[35-45];[125-150];oui;non;z_SUV;14;non;Private;Highly Urban/ Urban;5;mars;dev_premium;[300-450]
+1111;M;[55-65];< 25;non;non;Pickup;1;non;Commercial;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+1112;M;[25-35];[50-75];non;non;Sports Car;21;non;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+1113;M;[65-75];< 25;non;non;Sports Car;1;non;Private;Highly Urban/ Urban;1;mai;dev_integral;[300-450]
+1114;M;[65-75];[25-50];non;non;Van;4;oui;Private;Highly Urban/ Urban;3;mars;dev_express;< 300
+1115;F;[65-75];[25-50];non;non;Minivan;16;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+1116;F;[45-55];[50-75];non;non;Pickup;10;oui;Private;Highly Urban/ Urban;0;avril;dev_integral;[300-450]
+1117;M;[15-25];[25-50];oui;non;Pickup;7;oui;Private;Highly Urban/ Urban;1;janvier;dev_express;< 300
+1118;F;[35-45];[25-50];non;non;Pickup;1;oui;Commercial;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+1119;M;> 75;[50-75];non;non;Minivan;9;oui;Private;Highly Urban/ Urban;0;février;dev_express;< 300
+1120;F;[25-35];[75-100];non;non;Minivan;12;oui;Private;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+1121;M;[15-25];[75-100];non;non;Sports Car;9;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+1122;F;[55-65];[100-125];non;non;Panel Truck;15;oui;Commercial;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+1123;F;> 75;[100-125];non;non;Panel Truck;12;oui;Commercial;Highly Urban/ Urban;1;février;dev_premium;[300-450]
+1124;M;[15-25];[25-50];oui;oui;Minivan;4;non;Commercial;Highly Urban/ Urban;2;janvier;dev_integral;[300-450]
+1125;F;< 15;[50-75];oui;non;Pickup;11;non;Commercial;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+1126;M;< 15;[50-75];non;non;Pickup;12;oui;Private;Highly Urban/ Urban;1;mars;dev_integral;[300-450]
+1127;M;[15-25];< 25;non;non;Minivan;11;oui;Commercial;z_Highly Rural/ Rural;0;mars;dev_express;< 300
+1128;F;< 15;[50-75];non;non;z_SUV;8;non;Private;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
+1129;M;< 15;[100-125];non;non;z_SUV;7;non;Private;Highly Urban/ Urban;4;mars;dev_integral;[300-450]
+1130;F;< 15;[50-75];non;non;z_SUV;4;non;Private;Highly Urban/ Urban;5;mai;dev_integral;[300-450]
+1131;F;[65-75];> 150;non;non;z_SUV;12;non;Private;Highly Urban/ Urban;1;avril;dev_integral;[300-450]
+1132;F;[35-45];< 25;non;non;Minivan;1;non;Private;Highly Urban/ Urban;0;avril;dev_express;< 300
+1133;F;[35-45];[50-75];oui;non;Minivan;8;oui;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+1134;F;> 75;[25-50];non;non;z_SUV;10;non;Private;z_Highly Rural/ Rural;1;février;dev_integral;[300-450]
+1135;M;[25-35];[50-75];oui;non;z_SUV;7;non;Private;Highly Urban/ Urban;0;mars;dev_integral;< 300
+1136;F;> 75;[25-50];oui;non;z_SUV;12;non;Private;Highly Urban/ Urban;0;mai;dev_integral;[300-450]
+1137;F;[65-75];[25-50];non;non;z_SUV;;non;Private;Highly Urban/ Urban;3;mai;dev_express;< 300
+1138;F;< 15;< 25;non;non;Sports Car;2;non;Private;Highly Urban/ Urban;10;février;dev_integral;[300-450]
+1139;F;[45-55];[25-50];non;non;z_SUV;10;non;Private;Highly Urban/ Urban;0;mars;dev_express;< 300
+1140;M;< 15;[25-50];non;non;Pickup;1;non;Private;Highly Urban/ Urban;3;avril;dev_integral;[300-450]
+1141;M;[65-75];< 25;oui;oui;Sports Car;12;non;Private;z_Highly Rural/ Rural;0;février;dev_integral;< 300
+1142;F;[65-75];< 25;non;non;Pickup;7;oui;Commercial;z_Highly Rural/ Rural;2;février;dev_express;< 300
+1143;F;[65-75];[100-125];non;non;Pickup;22;oui;Private;Highly Urban/ Urban;4;mai;dev_integral;[300-450]
+1144;F;> 75;[75-100];oui;oui;Panel Truck;;non;Commercial;z_Highly Rural/ Rural;0;mai;dev_integral;< 300
+1145;M;[65-75];< 25;oui;non;Sports Car;7;non;Private;Highly Urban/ Urban;2;mars;dev_express;< 300
+1146;M;[45-55];[75-100];non;non;Minivan;21;oui;Private;Highly Urban/ Urban;3;janvier;dev_express;< 300
+1147;M;> 75;[50-75];oui;non;z_SUV;1;non;Private;Highly Urban/ Urban;7;mars;dev_integral;< 300
+1148;F;> 75;[25-50];non;non;z_SUV;6;non;Private;z_Highly Rural/ Rural;0;janvier;dev_express;< 300
+1149;F;< 15;[50-75];non;non;Minivan;7;oui;Private;Highly Urban/ Urban;0;mai;dev_premium;[450-600]
+1150;M;[65-75];[75-100];non;non;Minivan;10;non;Commercial;Highly Urban/ Urban;7;avril;dev_express;< 300
+1151;M;[55-65];< 25;oui;oui;Pickup;9;non;Commercial;Highly Urban/ Urban;3;mai;dev_express;< 300
+1152;M;[65-75];[100-125];non;non;Panel Truck;20;oui;Commercial;Highly Urban/ Urban;5;février;dev_integral;[300-450]
+1153;M;> 75;< 25;non;non;z_SUV;8;non;Private;z_Highly Rural/ Rural;1;janvier;dev_integral;[300-450]
+1154;F;[55-65];[125-150];non;non;Minivan;20;oui;Private;Highly Urban/ Urban;2;mai;dev_express;< 300
+1155;M;< 15;[25-50];non;non;Minivan;1;non;Private;z_Highly Rural/ Rural;2;mai;dev_express;< 300
+1156;F;[55-65];[50-75];non;non;Minivan;1;non;Private;Highly Urban/ Urban;3;janvier;dev_integral;[300-450]
+1157;F;[65-75];[75-100];non;non;Van;4;non;Commercial;Highly Urban/ Urban;6;janvier;dev_premium;[450-600]
+1158;M;> 75;[25-50];non;oui;Minivan;1;non;Private;z_Highly Rural/ Rural;0;mai;dev_integral;[300-450]
